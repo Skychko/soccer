@@ -458,7 +458,7 @@
     {
         "id": "0078",
         "name": "AC Milan",
-        "search": ["ac milan", "fc internazionale milano"],
+        "search": ["ac milan"],
         "country": "IT"
     },
     {
@@ -3623,7 +3623,7 @@
     {
         "id": "0613",
         "name": "Internazionale",
-        "search": ["internazionale"],
+        "search": ["internazionale", "fc internazionale milano"],
         "country": "IT"
     },
     {
