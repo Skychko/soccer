@@ -56,7 +56,7 @@
     {
         "id": "0009",
         "name": "São Paulo",
-        "search": ["são paulo"],
+        "search": ["são paulo", "fc são paulo"],
         "country": "BR"
     },
     {
@@ -283,7 +283,7 @@
     {
         "id": "0048",
         "name": "Santos",
-        "search": ["santos"],
+        "search": ["santos", "fc santos"],
         "country": "BR"
     },
     {
@@ -301,7 +301,7 @@
     {
         "id": "0051",
         "name": "Levante",
-        "search": ["levante"],
+        "search": ["levante", "levante ud"],
         "country": "ES"
     },
     {
@@ -908,7 +908,7 @@
     {
         "id": "0154",
         "name": "Sparta",
-        "search": ["sparta"],
+        "search": ["sparta", "sparta rotterdam"],
         "country": "NL"
     },
     {
@@ -1063,7 +1063,7 @@
     {
         "id": "0180",
         "name": "Coritiba",
-        "search": ["coritiba"],
+        "search": ["coritiba", "coritiba fc"],
         "country": "BR"
     },
     {
@@ -1268,7 +1268,7 @@
     {
         "id": "0215",
         "name": "Alavés",
-        "search": ["alavés"],
+        "search": ["alavés", "deportivo alavés"],
         "country": "ES"
     },
     {
@@ -3287,7 +3287,7 @@
     {
         "id": "0556",
         "name": "Flamengo",
-        "search": ["flamengo"],
+        "search": ["flamengo", "cr flamengo"],
         "country": "BR"
     },
     {
@@ -3531,7 +3531,7 @@
     {
         "id": "0597",
         "name": "Palmeiras",
-        "search": ["palmeiras"],
+        "search": ["palmeiras", "palmeiras são paulo"],
         "country": "BR"
     },
     {
@@ -3641,7 +3641,7 @@
     {
         "id": "0616",
         "name": "FC Twente",
-        "search": ["fc twente"],
+        "search": ["fc twente", "fc twente enschede"],
         "country": "NL"
     },
     {
@@ -3754,7 +3754,7 @@
     {
         "id": "0635",
         "name": "Manchester City",
-        "search": ["manchester city"],
+        "search": ["manchester city", "manchester city fc"],
         "country": "GB"
     },
     {
