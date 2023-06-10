@@ -1,0 +1,216 @@
+[
+    {
+        "id": "0025",
+        "country": "AR",
+        "name": "Primera División",
+        "search": ["primera división", "argentina primera division"]
+    },
+    {
+        "id": "0002",
+        "country": "AU",
+        "name": "A-League",
+        "search": ["a-league", "australian a-league"]
+    },
+    {
+        "id": "0005",
+        "country": "AT",
+        "name": "Bundesliga",
+        "search": ["austrian t-mobile bundesliga"]
+    },
+    {
+        "id": "0021",
+        "country": "GB",
+        "name": "Premier League",
+        "search": ["premier league", "barclays premier league"]
+    },
+    {
+        "id": "0010",
+        "country": "BE",
+        "name": "First Division A",
+        "search": ["first division a", "belgian jupiler league"]
+    },
+    {
+        "id": "0004",
+        "country": "BR",
+        "name": "Brasileirão",
+        "search": ["brasileirão", "brasileiro série a"]
+    },
+    {
+        "id": "0028",
+        "country": "CN",
+        "name": "Super League",
+        "search": ["chinese super league"]
+    },
+    {
+        "id": "0031",
+        "country": "DK",
+        "name": "Superliga",
+        "search": ["superliga", "danish sas-ligaen"]
+    },
+    {
+        "id": "0009",
+        "country": "NL",
+        "name": "Eredivisie",
+        "search": ["eredivisie", "dutch eredivisie"]
+    },
+    {
+        "id": "0007",
+        "country": "GB",
+        "name": "Championship",
+        "search": ["championship", "english league championship"]
+    },
+    {
+        "id": "0014",
+        "country": "GB",
+        "name": "League One",
+        "search": ["league one", "english league one"]
+    },
+    {
+        "id": "0015",
+        "country": "GB",
+        "name": "League Two",
+        "search": ["league two", "english league two"]
+    },
+    {
+        "id": "0017",
+        "country": "FR",
+        "name": "Ligue 1",
+        "search": ["ligue 1", "french ligue 1"]
+    },
+    {
+        "id": "0018",
+        "country": "FR",
+        "name": "Ligue 2",
+        "search": ["ligue 2", "french ligue 2"]
+    },
+    {
+        "id": "0001",
+        "country": "DE",
+        "name": "2. Bundesliga",
+        "search": ["2. bundesliga", "german 2. bundesliga"]
+    },
+    {
+        "id": "0006",
+        "country": "DE",
+        "name": "Bundesliga",
+        "search": ["bundesliga", "german bundesliga"]
+    },
+    {
+        "id": "0029",
+        "country": "GR",
+        "name": "Super League",
+        "search": ["greek super league"]
+    },
+    {
+        "id": "0026",
+        "country": "IT",
+        "name": "Serie A",
+        "search": ["serie a", "italy serie a"]
+    },
+    {
+        "id": "0027",
+        "country": "IT",
+        "name": "Serie B",
+        "search": ["serie b", "italy serie b"]
+    },
+    {
+        "id": "0011",
+        "country": "JP",
+        "name": "J1 League",
+        "search": ["j1 league",
+            "japanese j league"]
+    },
+    {
+        "id": "0019",
+        "country": "US",
+        "name": "Major League Soccer",
+        "search": ["major league soccer"]
+    },
+    {
+        "id": "0016",
+        "country": "MX",
+        "name": "Liga MX",
+        "search": ["liga mx", "mexican primera division torneo apertura"]
+    },
+    {
+        "id": "0008",
+        "country": "NO",
+        "name": "Eliteserien",
+        "search": ["eliteserien", "norwegian tippeligaen"]
+    },
+    {
+        "id": "0024",
+        "country": "PT",
+        "name": "Primeira Liga",
+        "search": ["primeira liga", "portuguese liga"]
+    },
+    {
+        "id": "0022",
+        "country": "RU",
+        "name": "Premier League",
+        "search": ["russian premier liga"]
+    },
+    {
+        "id": "0023",
+        "country": "GB-SCT",
+        "name": "Premiership",
+        "search": ["premiership", "scottish premiership"]
+    },
+    {
+        "id": "0020",
+        "country": "ZA",
+        "name": "Premier Division",
+        "search": ["premier division", "south african absa premier league"]
+    },
+    {
+        "id": "0012",
+        "country": "ES",
+        "name": "La Liga",
+        "search": ["la liga", "spanish primera division"]
+    },
+    {
+        "id": "0013",
+        "country": "ES",
+        "name": "La Liga 2",
+        "search": ["la liga 2", "spanish segunda division"]
+    },
+    {
+        "id": "0003",
+        "country": "SE",
+        "name": "Allsvenskan",
+        "search": ["allsvenskan", "swedish allsvenskan"]
+    },
+    {
+        "id": "0030",
+        "country": "CH",
+        "name": "Super League",
+        "search": ["super league", "swiss raiffeisen super league"]
+    },
+    {
+        "id": "0032",
+        "country": "TR",
+        "name": "Süper Lig",
+        "search": ["süper lig", "turkish turkcell super lig"]
+    },
+    {
+        "id": "9001",
+        "name": "UEFA Champions League",
+        "search": ["uefa champions league"]
+    },
+    {
+        "id": "9002",
+        "name": "UEFA Europa Conference League",
+        "search": ["uefa europa conference league"]
+    },
+    {
+        "id": "9003",
+        "name": "Europa League",
+        "search": ["europa league", "uefa europa league"]
+    },
+    {
+        "id": "0033",
+        "country": "US",
+        "name": "USL Championship",
+        "search": ["usl championship", "united soccer league"]
+    }
+]

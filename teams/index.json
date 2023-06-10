@@ -1,0 +1,3898 @@
+[
+    {
+        "id": "0000",
+        "name": "Bayern Munich",
+        "search": ["bayern munich", "fc bayern münchen"],
+        "country": "DE"
+    },
+    {
+        "id": "0001",
+        "name": "FC Salzburg",
+        "search": ["fc salzburg"],
+        "country": "AT"
+    },
+    {
+        "id": "0002",
+        "name": "Espanyol",
+        "search": ["espanyol"],
+        "country": "ES"
+    },
+    {
+        "id": "0003",
+        "name": "Hertha Berlin",
+        "search": ["hertha berlin"],
+        "country": "DE"
+    },
+    {
+        "id": "0004",
+        "name": "Nantes",
+        "search": ["nantes"],
+        "country": "FR"
+    },
+    {
+        "id": "0005",
+        "name": "Elche",
+        "search": ["elche", "elche cf"],
+        "country": "ES"
+    },
+    {
+        "id": "0006",
+        "name": "Olympiacos",
+        "search": ["olympiacos"],
+        "country": "GR"
+    },
+    {
+        "id": "0007",
+        "name": "Watford",
+        "search": ["watford"],
+        "country": "GB"
+    },
+    {
+        "id": "0008",
+        "name": "Fulham",
+        "search": ["fulham", "fulham fc"],
+        "country": "GB"
+    },
+    {
+        "id": "0009",
+        "name": "São Paulo",
+        "search": ["são paulo"],
+        "country": "BR"
+    },
+    {
+        "id": "0010",
+        "name": "Girona FC",
+        "search": ["girona fc"],
+        "country": "ES"
+    },
+    {
+        "id": "0011",
+        "name": "Trabzonspor",
+        "search": ["trabzonspor"],
+        "country": "TR"
+    },
+    {
+        "id": "0012",
+        "name": "RB Leipzig",
+        "search": ["rb leipzig"],
+        "country": "DE"
+    },
+    {
+        "id": "0013",
+        "name": "Club América",
+        "search": ["club américa"]
+    },
+    {
+        "id": "0014",
+        "name": "Internacional",
+        "search": ["internacional"],
+        "country": "BR"
+    },
+    {
+        "id": "0015",
+        "name": "Udinese",
+        "search": ["udinese", "udinese calcio"],
+        "country": "IT"
+    },
+    {
+        "id": "0016",
+        "name": "AFC Bournemouth",
+        "search": ["afc bournemouth"],
+        "country": "GB"
+    },
+    {
+        "id": "0017",
+        "name": "Reims",
+        "search": ["reims", "stade de reims"],
+        "country": "FR"
+    },
+    {
+        "id": "0018",
+        "name": "Red Star Belgrade",
+        "search": ["red star belgrade"]
+    },
+    {
+        "id": "0019",
+        "name": "FC Utrecht",
+        "search": ["fc utrecht"],
+        "country": "NL"
+    },
+    {
+        "id": "0020",
+        "name": "Mallorca",
+        "search": ["mallorca", "rcd mallorca"],
+        "country": "ES"
+    },
+    {
+        "id": "0021",
+        "name": "Nottingham Forest",
+        "search": ["nottingham forest"],
+        "country": "GB"
+    },
+    {
+        "id": "0022",
+        "name": "New York City FC",
+        "search": ["new york city fc"],
+        "country": "US"
+    },
+    {
+        "id": "0023",
+        "name": "Atletico Madrid",
+        "search": ["atletico madrid"],
+        "country": "ES"
+    },
+    {
+        "id": "0024",
+        "name": "Pachuca",
+        "search": ["pachuca"]
+    },
+    {
+        "id": "0025",
+        "name": "Bodo/Glimt",
+        "search": ["bodo/glimt"],
+        "country": "NO"
+    },
+    {
+        "id": "0026",
+        "name": "Sheffield United",
+        "search": ["sheffield united"],
+        "country": "GB"
+    },
+    {
+        "id": "0027",
+        "name": "Bologna",
+        "search": ["bologna", "bologna fc"],
+        "country": "IT"
+    },
+    {
+        "id": "0028",
+        "name": "Bragantino",
+        "search": ["bragantino"],
+        "country": "BR"
+    },
+    {
+        "id": "0029",
+        "name": "FC Midtjylland",
+        "search": ["fc midtjylland"],
+        "country": "DK"
+    },
+    {
+        "id": "0030",
+        "name": "Angers",
+        "search": ["angers"],
+        "country": "FR"
+    },
+    {
+        "id": "0031",
+        "name": "Sparta Prague",
+        "search": ["sparta prague"]
+    },
+    {
+        "id": "0032",
+        "name": "KAA Gent",
+        "search": ["kaa gent"],
+        "country": "BE"
+    },
+    {
+        "id": "0033",
+        "name": "Dynamo Kiev",
+        "search": ["dynamo kiev"]
+    },
+    {
+        "id": "0034",
+        "name": "Borussia Dortmund",
+        "search": ["borussia dortmund"],
+        "country": "DE"
+    },
+    {
+        "id": "0035",
+        "name": "Ferencvaros",
+        "search": ["ferencvaros", "ferencvárosi tc"]
+    },
+    {
+        "id": "0036",
+        "name": "Guimaraes",
+        "search": ["guimaraes"],
+        "country": "PT"
+    },
+    {
+        "id": "0037",
+        "name": "Yokohama F. Marinos",
+        "search": ["yokohama f. marinos"],
+        "country": "JP"
+    },
+    {
+        "id": "0038",
+        "name": "Corinthians",
+        "search": ["corinthians"],
+        "country": "BR"
+    },
+    {
+        "id": "0039",
+        "name": "Troyes",
+        "search": ["troyes"],
+        "country": "FR"
+    },
+    {
+        "id": "0040",
+        "name": "CSKA Moscow",
+        "search": ["cska moscow"],
+        "country": "RU"
+    },
+    {
+        "id": "0041",
+        "name": "Vitesse",
+        "search": ["vitesse"],
+        "country": "NL"
+    },
+    {
+        "id": "0042",
+        "name": "Brest",
+        "search": ["brest"],
+        "country": "FR"
+    },
+    {
+        "id": "0043",
+        "name": "Los Angeles FC",
+        "search": ["los angeles fc"],
+        "country": "US"
+    },
+    {
+        "id": "0044",
+        "name": "West Bromwich Albion",
+        "search": ["west bromwich albion"],
+        "country": "GB"
+    },
+    {
+        "id": "0045",
+        "name": "FC Porto",
+        "search": ["fc porto"],
+        "country": "PT"
+    },
+    {
+        "id": "0046",
+        "name": "Spartak Moscow",
+        "search": ["spartak moscow"],
+        "country": "RU"
+    },
+    {
+        "id": "0047",
+        "name": "Cruz Azul",
+        "search": ["cruz azul"]
+    },
+    {
+        "id": "0048",
+        "name": "Santos",
+        "search": ["santos"],
+        "country": "BR"
+    },
+    {
+        "id": "0049",
+        "name": "Lorient",
+        "search": ["lorient"],
+        "country": "FR"
+    },
+    {
+        "id": "0050",
+        "name": "Burnley",
+        "search": ["burnley"],
+        "country": "GB"
+    },
+    {
+        "id": "0051",
+        "name": "Levante",
+        "search": ["levante"],
+        "country": "ES"
+    },
+    {
+        "id": "0052",
+        "name": "Montpellier",
+        "search": ["montpellier"],
+        "country": "FR"
+    },
+    {
+        "id": "0053",
+        "name": "Atlético Paranaense",
+        "search": ["atlético paranaense"],
+        "country": "BR"
+    },
+    {
+        "id": "0054",
+        "name": "Sampdoria",
+        "search": ["sampdoria", "uc sampdoria"],
+        "country": "IT"
+    },
+    {
+        "id": "0055",
+        "name": "Clermont Foot",
+        "search": ["clermont foot"],
+        "country": "FR"
+    },
+    {
+        "id": "0056",
+        "name": "Sporting CP",
+        "search": ["sporting cp", "sporting clube de portugal"],
+        "country": "PT"
+    },
+    {
+        "id": "0057",
+        "name": "Monza",
+        "search": ["monza", "ac monza"],
+        "country": "IT"
+    },
+    {
+        "id": "0058",
+        "name": "FC Sheriff Tiraspol",
+        "search": ["fc sheriff tiraspol"]
+    },
+    {
+        "id": "0059",
+        "name": "Toulouse",
+        "search": ["toulouse"],
+        "country": "FR"
+    },
+    {
+        "id": "0060",
+        "name": "Dinamo Moscow",
+        "search": ["dinamo moscow"],
+        "country": "RU"
+    },
+    {
+        "id": "0061",
+        "name": "Boca Juniors",
+        "search": ["boca juniors"],
+        "country": "AR"
+    },
+    {
+        "id": "0062",
+        "name": "Ceará",
+        "search": ["ceará"]
+    },
+    {
+        "id": "0063",
+        "name": "St Etienne",
+        "search": ["st etienne"],
+        "country": "FR"
+    },
+    {
+        "id": "0064",
+        "name": "Famalicao",
+        "search": ["famalicao"],
+        "country": "PT"
+    },
+    {
+        "id": "0065",
+        "name": "Auxerre",
+        "search": ["auxerre"],
+        "country": "FR"
+    },
+    {
+        "id": "0066",
+        "name": "FK Partizan Belgrade",
+        "search": ["fk partizan belgrade"]
+    },
+    {
+        "id": "0067",
+        "name": "Arsenal",
+        "search": ["arsenal", "arsenal fc"],
+        "country": "GB"
+    },
+    {
+        "id": "0068",
+        "name": "Molde",
+        "search": ["molde"],
+        "country": "NO"
+    },
+    {
+        "id": "0069",
+        "name": "Philadelphia Union",
+        "search": ["philadelphia union"],
+        "country": "US"
+    },
+    {
+        "id": "0070",
+        "name": "AC Ajaccio",
+        "search": ["ac ajaccio"],
+        "country": "FR"
+    },
+    {
+        "id": "0071",
+        "name": "Besiktas",
+        "search": ["besiktas"],
+        "country": "TR"
+    },
+    {
+        "id": "0072",
+        "name": "Galatasaray",
+        "search": ["galatasaray"],
+        "country": "TR"
+    },
+    {
+        "id": "0073",
+        "name": "Gil Vicente",
+        "search": ["gil vicente"],
+        "country": "PT"
+    },
+    {
+        "id": "0074",
+        "name": "Maccabi Tel-Aviv",
+        "search": ["maccabi tel-aviv"]
+    },
+    {
+        "id": "0075",
+        "name": "Union Saint Gilloise",
+        "search": ["union saint gilloise", "royale union saint"],
+        "country": "BE"
+    },
+    {
+        "id": "0076",
+        "name": "Guadalajara",
+        "search": ["guadalajara"]
+    },
+    {
+        "id": "0077",
+        "name": "Lecce",
+        "search": ["lecce", "us lecce"],
+        "country": "IT"
+    },
+    {
+        "id": "0078",
+        "name": "AC Milan",
+        "search": ["ac milan", "fc internazionale milano"],
+        "country": "IT"
+    },
+    {
+        "id": "0079",
+        "name": "Fortaleza",
+        "search": ["fortaleza"],
+        "country": "BR"
+    },
+    {
+        "id": "0080",
+        "name": "Santos Laguna",
+        "search": ["santos laguna"]
+    },
+    {
+        "id": "0081",
+        "name": "Sochi",
+        "search": ["sochi"],
+        "country": "RU"
+    },
+    {
+        "id": "0082",
+        "name": "Empoli",
+        "search": ["empoli", "empoli fc"],
+        "country": "IT"
+    },
+    {
+        "id": "0083",
+        "name": "Cremonese",
+        "search": ["cremonese", "us cremonese"],
+        "country": "IT"
+    },
+    {
+        "id": "0084",
+        "name": "PAOK Salonika",
+        "search": ["paok salonika"],
+        "country": "GR"
+    },
+    {
+        "id": "0085",
+        "name": "Kawasaki Frontale",
+        "search": ["kawasaki frontale"],
+        "country": "JP"
+    },
+    {
+        "id": "0086",
+        "name": "SK Sturm Graz",
+        "search": ["sk sturm graz"],
+        "country": "AT"
+    },
+    {
+        "id": "0087",
+        "name": "Panathinaikos",
+        "search": ["panathinaikos"],
+        "country": "GR"
+    },
+    {
+        "id": "0088",
+        "name": "Heerenveen",
+        "search": ["heerenveen", "sc heerenveen"],
+        "country": "NL"
+    },
+    {
+        "id": "0089",
+        "name": "Bayer Leverkusen",
+        "search": ["bayer leverkusen", "bayer 04 leverkusen"],
+        "country": "DE"
+    },
+    {
+        "id": "0090",
+        "name": "Atlas",
+        "search": ["atlas"]
+    },
+    {
+        "id": "0091",
+        "name": "Legia Warsaw",
+        "search": ["legia warsaw"]
+    },
+    {
+        "id": "0092",
+        "name": "FC Krasnodar",
+        "search": ["fc krasnodar"],
+        "country": "RU"
+    },
+    {
+        "id": "0093",
+        "name": "Antwerp",
+        "search": ["antwerp"],
+        "country": "BE"
+    },
+    {
+        "id": "0094",
+        "name": "Spezia",
+        "search": ["spezia", "spezia calcio"],
+        "country": "IT"
+    },
+    {
+        "id": "0095",
+        "name": "Santa Clara",
+        "search": ["santa clara"],
+        "country": "PT"
+    },
+    {
+        "id": "0096",
+        "name": "Istanbul Basaksehir",
+        "search": ["istanbul basaksehir"],
+        "country": "TR"
+    },
+    {
+        "id": "0097",
+        "name": "FC Zurich",
+        "search": ["fc zurich"],
+        "country": "CH"
+    },
+    {
+        "id": "0098",
+        "name": "Rapid Vienna",
+        "search": ["rapid vienna"],
+        "country": "AT"
+    },
+    {
+        "id": "0099",
+        "name": "Hamburg SV",
+        "search": ["hamburg sv"],
+        "country": "DE"
+    },
+    {
+        "id": "0100",
+        "name": "Villarreal",
+        "search": ["villarreal", "villarreal cf"],
+        "country": "ES"
+    },
+    {
+        "id": "0101",
+        "name": "Parma",
+        "search": ["parma"],
+        "country": "IT"
+    },
+    {
+        "id": "0102",
+        "name": "Basel",
+        "search": ["basel", "fc basel 1893", "fc bâle 1893"],
+        "country": "CH"
+    },
+    {
+        "id": "0103",
+        "name": "Middlesbrough",
+        "search": ["middlesbrough"],
+        "country": "GB"
+    },
+    {
+        "id": "0104",
+        "name": "FC Groningen",
+        "search": ["fc groningen"],
+        "country": "NL"
+    },
+    {
+        "id": "0105",
+        "name": "NEC",
+        "search": ["nec"],
+        "country": "NL"
+    },
+    {
+        "id": "0106",
+        "name": "LASK Linz",
+        "search": ["lask linz"],
+        "country": "AT"
+    },
+    {
+        "id": "0107",
+        "name": "Salernitana",
+        "search": ["salernitana"],
+        "country": "IT"
+    },
+    {
+        "id": "0108",
+        "name": "Urawa Red Diamonds",
+        "search": ["urawa red diamonds"],
+        "country": "JP"
+    },
+    {
+        "id": "0109",
+        "name": "Lokomotiv Moscow",
+        "search": ["lokomotiv moscow"],
+        "country": "RU"
+    },
+    {
+        "id": "0110",
+        "name": "Velez Sarsfield",
+        "search": ["velez sarsfield"],
+        "country": "AR"
+    },
+    {
+        "id": "0111",
+        "name": "Liverpool",
+        "search": ["liverpool"],
+        "country": "GB"
+    },
+    {
+        "id": "0112",
+        "name": "Napoli",
+        "search": ["napoli", "ssc napoli"],
+        "country": "IT"
+    },
+    {
+        "id": "0113",
+        "name": "New York Red Bulls",
+        "search": ["new york red bulls"],
+        "country": "US"
+    },
+    {
+        "id": "0114",
+        "name": "Boavista",
+        "search": ["boavista", "boavista fc"],
+        "country": "PT"
+    },
+    {
+        "id": "0115",
+        "name": "León",
+        "search": ["león"]
+    },
+    {
+        "id": "0116",
+        "name": "Coventry City",
+        "search": ["coventry city"],
+        "country": "GB"
+    },
+    {
+        "id": "0117",
+        "name": "Rosenborg",
+        "search": ["rosenborg"],
+        "country": "NO"
+    },
+    {
+        "id": "0118",
+        "name": "Cagliari",
+        "search": ["cagliari"],
+        "country": "IT"
+    },
+    {
+        "id": "0119",
+        "name": "Los Angeles Galaxy",
+        "search": ["los angeles galaxy"],
+        "country": "US"
+    },
+    {
+        "id": "0120",
+        "name": "América Mineiro",
+        "search": ["américa mineiro"],
+        "country": "BR"
+    },
+    {
+        "id": "0121",
+        "name": "Atlético Goianiense",
+        "search": ["atlético goianiense"]
+    },
+    {
+        "id": "0122",
+        "name": "Sporting de Charleroi",
+        "search": ["sporting de charleroi"],
+        "country": "BE"
+    },
+    {
+        "id": "0123",
+        "name": "Manchester United",
+        "search": ["manchester united"],
+        "country": "GB"
+    },
+    {
+        "id": "0124",
+        "name": "Silkeborg",
+        "search": ["silkeborg"],
+        "country": "DK"
+    },
+    {
+        "id": "0125",
+        "name": "Portimonense",
+        "search": ["portimonense"],
+        "country": "PT"
+    },
+    {
+        "id": "0126",
+        "name": "Metz",
+        "search": ["metz"],
+        "country": "FR"
+    },
+    {
+        "id": "0127",
+        "name": "Kasimpasa",
+        "search": ["kasimpasa"],
+        "country": "TR"
+    },
+    {
+        "id": "0128",
+        "name": "Granada",
+        "search": ["granada"],
+        "country": "ES"
+    },
+    {
+        "id": "0129",
+        "name": "Vizela",
+        "search": ["vizela"],
+        "country": "PT"
+    },
+    {
+        "id": "0130",
+        "name": "Maritimo",
+        "search": ["maritimo", "maritimo funchal"],
+        "country": "PT"
+    },
+    {
+        "id": "0131",
+        "name": "Djurgardens IF",
+        "search": ["djurgardens if", "djurgårdens if"],
+        "country": "SE"
+    },
+    {
+        "id": "0132",
+        "name": "Rio Ave",
+        "search": ["rio ave"],
+        "country": "PT"
+    },
+    {
+        "id": "0133",
+        "name": "Stoke City",
+        "search": ["stoke city"],
+        "country": "GB"
+    },
+    {
+        "id": "0134",
+        "name": "Real Sociedad",
+        "search": ["real sociedad", "real sociedad de fútbol"],
+        "country": "ES"
+    },
+    {
+        "id": "0135",
+        "name": "FC Volendam",
+        "search": ["fc volendam"],
+        "country": "NL"
+    },
+    {
+        "id": "0136",
+        "name": "Emmen",
+        "search": ["emmen"],
+        "country": "NL"
+    },
+    {
+        "id": "0137",
+        "name": "Puebla",
+        "search": ["puebla"]
+    },
+    {
+        "id": "0138",
+        "name": "Preston",
+        "search": ["preston", "preston north end"],
+        "country": "GB"
+    },
+    {
+        "id": "0139",
+        "name": "AEK Athens",
+        "search": ["aek athens"],
+        "country": "GR"
+    },
+    {
+        "id": "0140",
+        "name": "FK Austria Vienna",
+        "search": ["fk austria vienna"],
+        "country": "AT"
+    },
+    {
+        "id": "0141",
+        "name": "Cuiaba",
+        "search": ["cuiaba"],
+        "country": "BR"
+    },
+    {
+        "id": "0142",
+        "name": "New England Revolution",
+        "search": ["new england revolution"],
+        "country": "US"
+    },
+    {
+        "id": "0143",
+        "name": "Excelsior",
+        "search": ["excelsior"],
+        "country": "NL"
+    },
+    {
+        "id": "0144",
+        "name": "Argentinos Juniors",
+        "search": ["argentinos juniors"],
+        "country": "AR"
+    },
+    {
+        "id": "0145",
+        "name": "Benfica",
+        "search": ["benfica", "sl benfica"],
+        "country": "PT"
+    },
+    {
+        "id": "0146",
+        "name": "Konyaspor",
+        "search": ["konyaspor"],
+        "country": "TR"
+    },
+    {
+        "id": "0147",
+        "name": "Kashima Antlers",
+        "search": ["kashima antlers"],
+        "country": "JP"
+    },
+    {
+        "id": "0148",
+        "name": "Chaves",
+        "search": ["chaves"],
+        "country": "PT"
+    },
+    {
+        "id": "0149",
+        "name": "Austin FC",
+        "search": ["austin fc"],
+        "country": "US"
+    },
+    {
+        "id": "0150",
+        "name": "Rostov",
+        "search": ["rostov"],
+        "country": "RU"
+    },
+    {
+        "id": "0151",
+        "name": "St Gallen",
+        "search": ["st gallen", "fc st.gallen 1879"],
+        "country": "CH"
+    },
+    {
+        "id": "0152",
+        "name": "Hammarby",
+        "search": ["hammarby"],
+        "country": "SE"
+    },
+    {
+        "id": "0153",
+        "name": "Estoril Praia",
+        "search": ["estoril praia"],
+        "country": "PT"
+    },
+    {
+        "id": "0154",
+        "name": "Sparta",
+        "search": ["sparta"],
+        "country": "NL"
+    },
+    {
+        "id": "0155",
+        "name": "RKC",
+        "search": ["rkc"],
+        "country": "NL"
+    },
+    {
+        "id": "0156",
+        "name": "Aston Villa",
+        "search": ["aston villa"],
+        "country": "GB"
+    },
+    {
+        "id": "0157",
+        "name": "FC Arouca",
+        "search": ["fc arouca"],
+        "country": "PT"
+    },
+    {
+        "id": "0158",
+        "name": "Blackburn",
+        "search": ["blackburn"],
+        "country": "GB"
+    },
+    {
+        "id": "0159",
+        "name": "Botafogo",
+        "search": ["botafogo"],
+        "country": "BR"
+    },
+    {
+        "id": "0160",
+        "name": "Antalyaspor",
+        "search": ["antalyaspor"],
+        "country": "TR"
+    },
+    {
+        "id": "0161",
+        "name": "Alanyaspor",
+        "search": ["alanyaspor"],
+        "country": "TR"
+    },
+    {
+        "id": "0162",
+        "name": "Columbus Crew",
+        "search": ["columbus crew"],
+        "country": "US"
+    },
+    {
+        "id": "0163",
+        "name": "Pacos Ferreira",
+        "search": ["pacos ferreira"],
+        "country": "PT"
+    },
+    {
+        "id": "0164",
+        "name": "Millwall",
+        "search": ["millwall"],
+        "country": "GB"
+    },
+    {
+        "id": "0165",
+        "name": "Aris Salonika",
+        "search": ["aris salonika"],
+        "country": "GR"
+    },
+    {
+        "id": "0166",
+        "name": "Go Ahead Eagles",
+        "search": ["go ahead eagles"],
+        "country": "NL"
+    },
+    {
+        "id": "0167",
+        "name": "Brighton and Hove Albion",
+        "search": ["brighton and hove albion"],
+        "country": "GB"
+    },
+    {
+        "id": "0168",
+        "name": "Colorado Rapids",
+        "search": ["colorado rapids"],
+        "country": "US"
+    },
+    {
+        "id": "0169",
+        "name": "Portland Timbers",
+        "search": ["portland timbers"],
+        "country": "US"
+    },
+    {
+        "id": "0170",
+        "name": "Atlanta United FC",
+        "search": ["atlanta united fc"],
+        "country": "US"
+    },
+    {
+        "id": "0171",
+        "name": "FK Qarabag",
+        "search": ["fk qarabag"]
+    },
+    {
+        "id": "0172",
+        "name": "Nashville SC",
+        "search": ["nashville sc"],
+        "country": "US"
+    },
+    {
+        "id": "0173",
+        "name": "Seattle Sounders FC",
+        "search": ["seattle sounders fc"],
+        "country": "US"
+    },
+    {
+        "id": "0174",
+        "name": "Estudiantes",
+        "search": ["estudiantes"],
+        "country": "AR"
+    },
+    {
+        "id": "0175",
+        "name": "Lillestrom",
+        "search": ["lillestrom"],
+        "country": "NO"
+    },
+    {
+        "id": "0176",
+        "name": "Genoa",
+        "search": ["genoa"],
+        "country": "IT"
+    },
+    {
+        "id": "0177",
+        "name": "Racing Club",
+        "search": ["racing club"],
+        "country": "AR"
+    },
+    {
+        "id": "0178",
+        "name": "Feyenoord",
+        "search": ["feyenoord"],
+        "country": "NL"
+    },
+    {
+        "id": "0179",
+        "name": "Cerezo Osaka",
+        "search": ["cerezo osaka"],
+        "country": "JP"
+    },
+    {
+        "id": "0180",
+        "name": "Coritiba",
+        "search": ["coritiba"],
+        "country": "BR"
+    },
+    {
+        "id": "0181",
+        "name": "Krylia Sovetov",
+        "search": ["krylia sovetov"],
+        "country": "RU"
+    },
+    {
+        "id": "0182",
+        "name": "Pumas Unam",
+        "search": ["pumas unam"]
+    },
+    {
+        "id": "0183",
+        "name": "Wolfsberger AC",
+        "search": ["wolfsberger ac"],
+        "country": "AT"
+    },
+    {
+        "id": "0184",
+        "name": "Luton Town",
+        "search": ["luton town"],
+        "country": "GB"
+    },
+    {
+        "id": "0185",
+        "name": "CSKA Sofia",
+        "search": ["cska sofia"]
+    },
+    {
+        "id": "0186",
+        "name": "Anorthosis Famagusta",
+        "search": ["anorthosis famagusta"]
+    },
+    {
+        "id": "0187",
+        "name": "Montreal Impact",
+        "search": ["montreal impact"],
+        "country": "US"
+    },
+    {
+        "id": "0188",
+        "name": "Brondby",
+        "search": ["brondby"],
+        "country": "DK"
+    },
+    {
+        "id": "0189",
+        "name": "PSV",
+        "search": ["psv"],
+        "country": "NL"
+    },
+    {
+        "id": "0190",
+        "name": "Defensa y Justicia",
+        "search": ["defensa y justicia"],
+        "country": "AR"
+    },
+    {
+        "id": "0191",
+        "name": "Talleres de Córdoba",
+        "search": ["talleres de córdoba"],
+        "country": "AR"
+    },
+    {
+        "id": "0192",
+        "name": "St. Truidense",
+        "search": ["st. truidense"],
+        "country": "BE"
+    },
+    {
+        "id": "0193",
+        "name": "Terek Grozny",
+        "search": ["terek grozny"],
+        "country": "RU"
+    },
+    {
+        "id": "0194",
+        "name": "Casa Pia",
+        "search": ["casa pia"],
+        "country": "PT"
+    },
+    {
+        "id": "0195",
+        "name": "Real Salt Lake",
+        "search": ["real salt lake"],
+        "country": "US"
+    },
+    {
+        "id": "0196",
+        "name": "Derby County",
+        "search": ["derby county"],
+        "country": "GB"
+    },
+    {
+        "id": "0197",
+        "name": "Queens Park Rangers",
+        "search": ["queens park rangers"],
+        "country": "GB"
+    },
+    {
+        "id": "0198",
+        "name": "Adana Demirspor",
+        "search": ["adana demirspor"],
+        "country": "TR"
+    },
+    {
+        "id": "0199",
+        "name": "Huddersfield Town",
+        "search": ["huddersfield town"],
+        "country": "GB"
+    },
+    {
+        "id": "0200",
+        "name": "Atalanta",
+        "search": ["atalanta", "atalanta bc"],
+        "country": "IT"
+    },
+    {
+        "id": "0201",
+        "name": "CFR 1907 Cluj",
+        "search": ["cfr 1907 cluj"]
+    },
+    {
+        "id": "0202",
+        "name": "Minnesota United FC",
+        "search": ["minnesota united fc"],
+        "country": "US"
+    },
+    {
+        "id": "0203",
+        "name": "Atlético San Luis",
+        "search": ["atlético san luis"]
+    },
+    {
+        "id": "0204",
+        "name": "F.B.C Unione Venezia",
+        "search": ["f.b.c unione venezia"],
+        "country": "IT"
+    },
+    {
+        "id": "0205",
+        "name": "Hearts",
+        "search": ["hearts"],
+        "country": "GB-SCT"
+    },
+    {
+        "id": "0206",
+        "name": "FC Dallas",
+        "search": ["fc dallas"],
+        "country": "US"
+    },
+    {
+        "id": "0207",
+        "name": "FC Nordsjaelland",
+        "search": ["fc nordsjaelland"],
+        "country": "DK"
+    },
+    {
+        "id": "0208",
+        "name": "Cambuur Leeuwarden",
+        "search": ["cambuur leeuwarden", "sc cambuur"],
+        "country": "NL"
+    },
+    {
+        "id": "0209",
+        "name": "Fortuna Sittard",
+        "search": ["fortuna sittard"],
+        "country": "NL"
+    },
+    {
+        "id": "0210",
+        "name": "Malmo FF",
+        "search": ["malmo ff"],
+        "country": "SE"
+    },
+    {
+        "id": "0211",
+        "name": "AS Roma",
+        "search": ["as roma"],
+        "country": "IT"
+    },
+    {
+        "id": "0212",
+        "name": "Cardiff City",
+        "search": ["cardiff city"],
+        "country": "GB"
+    },
+    {
+        "id": "0213",
+        "name": "Union Santa Fe",
+        "search": ["union santa fe"],
+        "country": "AR"
+    },
+    {
+        "id": "0214",
+        "name": "Arminia Bielefeld",
+        "search": ["arminia bielefeld"],
+        "country": "DE"
+    },
+    {
+        "id": "0215",
+        "name": "Alavés",
+        "search": ["alavés"],
+        "country": "ES"
+    },
+    {
+        "id": "0216",
+        "name": "Necaxa",
+        "search": ["necaxa"]
+    },
+    {
+        "id": "0217",
+        "name": "Viking FK",
+        "search": ["viking fk"],
+        "country": "NO"
+    },
+    {
+        "id": "0218",
+        "name": "Toluca",
+        "search": ["toluca"]
+    },
+    {
+        "id": "0219",
+        "name": "Swansea City",
+        "search": ["swansea city"],
+        "country": "GB"
+    },
+    {
+        "id": "0220",
+        "name": "Goiás",
+        "search": ["goiás"],
+        "country": "BR"
+    },
+    {
+        "id": "0221",
+        "name": "FC Khimki",
+        "search": ["fc khimki"],
+        "country": "RU"
+    },
+    {
+        "id": "0222",
+        "name": "Paris Saint-Germain",
+        "search": ["paris saint-germain", "paris saint"],
+        "country": "FR"
+    },
+    {
+        "id": "0223",
+        "name": "AS Monaco",
+        "search": ["as monaco", "as monaco fc"],
+        "country": "FR"
+    },
+    {
+        "id": "0224",
+        "name": "Tijuana",
+        "search": ["tijuana"]
+    },
+    {
+        "id": "0225",
+        "name": "Sivasspor",
+        "search": ["sivasspor"],
+        "country": "TR"
+    },
+    {
+        "id": "0226",
+        "name": "Ludogorets",
+        "search": ["ludogorets"]
+    },
+    {
+        "id": "0227",
+        "name": "Bristol City",
+        "search": ["bristol city"],
+        "country": "GB"
+    },
+    {
+        "id": "0228",
+        "name": "Huracán",
+        "search": ["huracán"],
+        "country": "AR"
+    },
+    {
+        "id": "0229",
+        "name": "Cercle Brugge",
+        "search": ["cercle brugge"],
+        "country": "BE"
+    },
+    {
+        "id": "0230",
+        "name": "Chicago Fire",
+        "search": ["chicago fire"],
+        "country": "US"
+    },
+    {
+        "id": "0231",
+        "name": "Avaí",
+        "search": ["avaí"]
+    },
+    {
+        "id": "0232",
+        "name": "Blackpool",
+        "search": ["blackpool", "fc blackpool"],
+        "country": "GB"
+    },
+    {
+        "id": "0233",
+        "name": "Benevento",
+        "search": ["benevento"],
+        "country": "IT"
+    },
+    {
+        "id": "0234",
+        "name": "Athletic Bilbao",
+        "search": ["athletic bilbao", "athletic club"],
+        "country": "ES"
+    },
+    {
+        "id": "0235",
+        "name": "Slovan Bratislava",
+        "search": ["slovan bratislava", "šk slovan bratislava"]
+    },
+    {
+        "id": "0236",
+        "name": "Godoy Cruz",
+        "search": ["godoy cruz"],
+        "country": "AR"
+    },
+    {
+        "id": "0237",
+        "name": "Paris FC",
+        "search": ["paris fc"],
+        "country": "FR"
+    },
+    {
+        "id": "0238",
+        "name": "Sochaux",
+        "search": ["sochaux"],
+        "country": "FR"
+    },
+    {
+        "id": "0239",
+        "name": "Sheffield Wednesday",
+        "search": ["sheffield wednesday"],
+        "country": "GB"
+    },
+    {
+        "id": "0240",
+        "name": "Sanfrecce Hiroshima",
+        "search": ["sanfrecce hiroshima"],
+        "country": "JP"
+    },
+    {
+        "id": "0241",
+        "name": "Lanus",
+        "search": ["lanus"],
+        "country": "AR"
+    },
+    {
+        "id": "0242",
+        "name": "Juventude",
+        "search": ["juventude"]
+    },
+    {
+        "id": "0243",
+        "name": "Omonia Nicosia",
+        "search": ["omonia nicosia"]
+    },
+    {
+        "id": "0244",
+        "name": "Eibar",
+        "search": ["eibar", "sd eibar"],
+        "country": "ES"
+    },
+    {
+        "id": "0245",
+        "name": "Lyon",
+        "search": ["lyon"],
+        "country": "FR"
+    },
+    {
+        "id": "0246",
+        "name": "Hartberg",
+        "search": ["hartberg"],
+        "country": "AT"
+    },
+    {
+        "id": "0247",
+        "name": "Mamelodi Sundowns",
+        "search": ["mamelodi sundowns"],
+        "country": "ZA"
+    },
+    {
+        "id": "0248",
+        "name": "Orlando City SC",
+        "search": ["orlando city sc"],
+        "country": "US"
+    },
+    {
+        "id": "0249",
+        "name": "Randers FC",
+        "search": ["randers fc"],
+        "country": "DK"
+    },
+    {
+        "id": "0250",
+        "name": "Vissel Kobe",
+        "search": ["vissel kobe"],
+        "country": "JP"
+    },
+    {
+        "id": "0251",
+        "name": "Tigre",
+        "search": ["tigre"],
+        "country": "AR"
+    },
+    {
+        "id": "0252",
+        "name": "Brescia",
+        "search": ["brescia"],
+        "country": "IT"
+    },
+    {
+        "id": "0253",
+        "name": "Mazatlán FC",
+        "search": ["mazatlán fc"]
+    },
+    {
+        "id": "0254",
+        "name": "Caen",
+        "search": ["caen"],
+        "country": "FR"
+    },
+    {
+        "id": "0255",
+        "name": "Newell's Old Boys",
+        "search": ["newell's old boys"],
+        "country": "AR"
+    },
+    {
+        "id": "0256",
+        "name": "Sevilla FC",
+        "search": ["sevilla fc"],
+        "country": "ES"
+    },
+    {
+        "id": "0257",
+        "name": "Real Zaragoza",
+        "search": ["real zaragoza"],
+        "country": "ES"
+    },
+    {
+        "id": "0258",
+        "name": "Birmingham",
+        "search": ["birmingham"],
+        "country": "GB"
+    },
+    {
+        "id": "0259",
+        "name": "SV Darmstadt 98",
+        "search": ["sv darmstadt 98"],
+        "country": "DE"
+    },
+    {
+        "id": "0260",
+        "name": "Real Oviedo",
+        "search": ["real oviedo"],
+        "country": "ES"
+    },
+    {
+        "id": "0261",
+        "name": "CA Independiente",
+        "search": ["ca independiente"],
+        "country": "AR"
+    },
+    {
+        "id": "0262",
+        "name": "Dijon FCO",
+        "search": ["dijon fco"],
+        "country": "FR"
+    },
+    {
+        "id": "0263",
+        "name": "Fatih Karagümrük",
+        "search": ["fatih karagümrük"],
+        "country": "TR"
+    },
+    {
+        "id": "0264",
+        "name": "Standard Liege",
+        "search": ["standard liege"],
+        "country": "BE"
+    },
+    {
+        "id": "0265",
+        "name": "Gimnasia La Plata",
+        "search": ["gimnasia la plata"],
+        "country": "AR"
+    },
+    {
+        "id": "0266",
+        "name": "KVC Westerlo",
+        "search": ["kvc westerlo"],
+        "country": "BE"
+    },
+    {
+        "id": "0267",
+        "name": "Zenit St Petersburg",
+        "search": ["zenit st petersburg"],
+        "country": "RU"
+    },
+    {
+        "id": "0268",
+        "name": "AaB",
+        "search": ["aab"],
+        "country": "DK"
+    },
+    {
+        "id": "0269",
+        "name": "Sunderland",
+        "search": ["sunderland"],
+        "country": "GB"
+    },
+    {
+        "id": "0270",
+        "name": "KV Mechelen",
+        "search": ["kv mechelen"],
+        "country": "BE"
+    },
+    {
+        "id": "0271",
+        "name": "Guingamp",
+        "search": ["guingamp"],
+        "country": "FR"
+    },
+    {
+        "id": "0272",
+        "name": "Livingston",
+        "search": ["livingston"],
+        "country": "GB-SCT"
+    },
+    {
+        "id": "0273",
+        "name": "Banfield",
+        "search": ["banfield"],
+        "country": "AR"
+    },
+    {
+        "id": "0274",
+        "name": "SD Huesca",
+        "search": ["sd huesca"],
+        "country": "ES"
+    },
+    {
+        "id": "0275",
+        "name": "Hull City",
+        "search": ["hull city"],
+        "country": "GB"
+    },
+    {
+        "id": "0276",
+        "name": "San Jose Earthquakes",
+        "search": ["san jose earthquakes"],
+        "country": "US"
+    },
+    {
+        "id": "0277",
+        "name": "Las Palmas",
+        "search": ["las palmas"],
+        "country": "ES"
+    },
+    {
+        "id": "0278",
+        "name": "Crystal Palace",
+        "search": ["crystal palace"],
+        "country": "GB"
+    },
+    {
+        "id": "0279",
+        "name": "WSG Swarovski Wattens",
+        "search": ["wsg swarovski wattens"],
+        "country": "AT"
+    },
+    {
+        "id": "0280",
+        "name": "Gazisehir Gaziantep",
+        "search": ["gazisehir gaziantep"],
+        "country": "TR"
+    },
+    {
+        "id": "0281",
+        "name": "FC Juárez",
+        "search": ["fc juárez"]
+    },
+    {
+        "id": "0282",
+        "name": "Kayserispor",
+        "search": ["kayserispor"],
+        "country": "TR"
+    },
+    {
+        "id": "0283",
+        "name": "Hatayspor",
+        "search": ["hatayspor"],
+        "country": "TR"
+    },
+    {
+        "id": "0284",
+        "name": "Hibernian",
+        "search": ["hibernian"],
+        "country": "GB-SCT"
+    },
+    {
+        "id": "0285",
+        "name": "Flora",
+        "search": ["flora"]
+    },
+    {
+        "id": "0286",
+        "name": "BK Hacken",
+        "search": ["bk hacken"],
+        "country": "SE"
+    },
+    {
+        "id": "0287",
+        "name": "Valerenga",
+        "search": ["valerenga"],
+        "country": "NO"
+    },
+    {
+        "id": "0288",
+        "name": "Colon Santa Fe",
+        "search": ["colon santa fe"],
+        "country": "AR"
+    },
+    {
+        "id": "0289",
+        "name": "Leicester City",
+        "search": ["leicester city"],
+        "country": "GB"
+    },
+    {
+        "id": "0290",
+        "name": "Fortuna Düsseldorf",
+        "search": ["fortuna düsseldorf"],
+        "country": "DE"
+    },
+    {
+        "id": "0291",
+        "name": "FC St. Pauli",
+        "search": ["fc st. pauli"],
+        "country": "DE"
+    },
+    {
+        "id": "0292",
+        "name": "FC Luzern",
+        "search": ["fc luzern"],
+        "country": "CH"
+    },
+    {
+        "id": "0293",
+        "name": "Amiens",
+        "search": ["amiens"],
+        "country": "FR"
+    },
+    {
+        "id": "0294",
+        "name": "Rosario Central",
+        "search": ["rosario central"],
+        "country": "AR"
+    },
+    {
+        "id": "0295",
+        "name": "Frosinone",
+        "search": ["frosinone"],
+        "country": "IT"
+    },
+    {
+        "id": "0296",
+        "name": "FC Cincinnati",
+        "search": ["fc cincinnati"],
+        "country": "US"
+    },
+    {
+        "id": "0297",
+        "name": "Reading",
+        "search": ["reading"],
+        "country": "GB"
+    },
+    {
+        "id": "0298",
+        "name": "OH Leuven",
+        "search": ["oh leuven"],
+        "country": "BE"
+    },
+    {
+        "id": "0299",
+        "name": "Aberdeen",
+        "search": ["aberdeen"],
+        "country": "GB-SCT"
+    },
+    {
+        "id": "0300",
+        "name": "Rangers",
+        "search": ["rangers"],
+        "country": "GB-SCT"
+    },
+    {
+        "id": "0301",
+        "name": "Leganes",
+        "search": ["leganes"],
+        "country": "ES"
+    },
+    {
+        "id": "0302",
+        "name": "SK Austria Klagenfurt",
+        "search": ["sk austria klagenfurt"],
+        "country": "AT"
+    },
+    {
+        "id": "0303",
+        "name": "Dundee Utd",
+        "search": ["dundee utd"],
+        "country": "GB-SCT"
+    },
+    {
+        "id": "0304",
+        "name": "Inter Miami CF",
+        "search": ["inter miami cf"],
+        "country": "US"
+    },
+    {
+        "id": "0305",
+        "name": "IF Elfsborg",
+        "search": ["if elfsborg"],
+        "country": "SE"
+    },
+    {
+        "id": "0306",
+        "name": "Sporting Gijón",
+        "search": ["sporting gijón"],
+        "country": "ES"
+    },
+    {
+        "id": "0307",
+        "name": "Pisa",
+        "search": ["pisa"],
+        "country": "IT"
+    },
+    {
+        "id": "0308",
+        "name": "SpVgg Greuther Fürth",
+        "search": ["spvgg greuther fürth"],
+        "country": "DE"
+    },
+    {
+        "id": "0309",
+        "name": "Sagan Tosu",
+        "search": ["sagan tosu"],
+        "country": "JP"
+    },
+    {
+        "id": "0310",
+        "name": "Kairat Almaty",
+        "search": ["kairat almaty"]
+    },
+    {
+        "id": "0311",
+        "name": "Real Betis",
+        "search": ["real betis", "real betis balompié"],
+        "country": "ES"
+    },
+    {
+        "id": "0312",
+        "name": "FC Zorya Luhansk",
+        "search": ["fc zorya luhansk"]
+    },
+    {
+        "id": "0313",
+        "name": "Houston Dynamo",
+        "search": ["houston dynamo"],
+        "country": "US"
+    },
+    {
+        "id": "0314",
+        "name": "Ural Sverdlovsk Oblast",
+        "search": ["ural sverdlovsk oblast"],
+        "country": "RU"
+    },
+    {
+        "id": "0315",
+        "name": "SC Paderborn",
+        "search": ["sc paderborn"],
+        "country": "DE"
+    },
+    {
+        "id": "0316",
+        "name": "Querétaro",
+        "search": ["querétaro"]
+    },
+    {
+        "id": "0317",
+        "name": "San Lorenzo",
+        "search": ["san lorenzo"],
+        "country": "AR"
+    },
+    {
+        "id": "0318",
+        "name": "AGF Aarhus",
+        "search": ["agf aarhus"],
+        "country": "DK"
+    },
+    {
+        "id": "0319",
+        "name": "Sporting Kansas City",
+        "search": ["sporting kansas city"],
+        "country": "US"
+    },
+    {
+        "id": "0320",
+        "name": "1. FC Nürnberg",
+        "search": ["1. fc nürnberg"],
+        "country": "DE"
+    },
+    {
+        "id": "0321",
+        "name": "KV Kortrijk",
+        "search": ["kv kortrijk"],
+        "country": "BE"
+    },
+    {
+        "id": "0322",
+        "name": "West Ham United",
+        "search": ["west ham united", "west ham united fc"],
+        "country": "GB"
+    },
+    {
+        "id": "0323",
+        "name": "Ionikos FC",
+        "search": ["ionikos fc"],
+        "country": "GR"
+    },
+    {
+        "id": "0324",
+        "name": "Ascoli",
+        "search": ["ascoli"],
+        "country": "IT"
+    },
+    {
+        "id": "0325",
+        "name": "AIK",
+        "search": ["aik"],
+        "country": "SE"
+    },
+    {
+        "id": "0326",
+        "name": "NS Mura",
+        "search": ["ns mura"]
+    },
+    {
+        "id": "0327",
+        "name": "Viborg",
+        "search": ["viborg"],
+        "country": "DK"
+    },
+    {
+        "id": "0328",
+        "name": "Jablonec",
+        "search": ["jablonec"]
+    },
+    {
+        "id": "0329",
+        "name": "Wigan",
+        "search": ["wigan"],
+        "country": "GB"
+    },
+    {
+        "id": "0330",
+        "name": "Ross County",
+        "search": ["ross county"],
+        "country": "GB-SCT"
+    },
+    {
+        "id": "0331",
+        "name": "Gazovik Orenburg",
+        "search": ["gazovik orenburg"],
+        "country": "RU"
+    },
+    {
+        "id": "0332",
+        "name": "Kashiwa Reysol",
+        "search": ["kashiwa reysol"],
+        "country": "JP"
+    },
+    {
+        "id": "0333",
+        "name": "Real Madrid",
+        "search": ["real madrid", "real madrid cf"],
+        "country": "ES"
+    },
+    {
+        "id": "0334",
+        "name": "Stade Rennes",
+        "search": ["stade rennes"],
+        "country": "FR"
+    },
+    {
+        "id": "0335",
+        "name": "Nimes",
+        "search": ["nimes"],
+        "country": "FR"
+    },
+    {
+        "id": "0336",
+        "name": "Toronto FC",
+        "search": ["toronto fc"],
+        "country": "US"
+    },
+    {
+        "id": "0337",
+        "name": "Kilmarnock",
+        "search": ["kilmarnock"],
+        "country": "GB-SCT"
+    },
+    {
+        "id": "0338",
+        "name": "Stromsgodset",
+        "search": ["stromsgodset"],
+        "country": "NO"
+    },
+    {
+        "id": "0339",
+        "name": "Vancouver Whitecaps",
+        "search": ["vancouver whitecaps"],
+        "country": "US"
+    },
+    {
+        "id": "0340",
+        "name": "Tenerife",
+        "search": ["tenerife"],
+        "country": "ES"
+    },
+    {
+        "id": "0341",
+        "name": "SV Ried",
+        "search": ["sv ried"],
+        "country": "AT"
+    },
+    {
+        "id": "0342",
+        "name": "Charlotte FC",
+        "search": ["charlotte fc"],
+        "country": "US"
+    },
+    {
+        "id": "0343",
+        "name": "FC Cartagena",
+        "search": ["fc cartagena"],
+        "country": "ES"
+    },
+    {
+        "id": "0344",
+        "name": "Odense BK",
+        "search": ["odense bk"],
+        "country": "DK"
+    },
+    {
+        "id": "0345",
+        "name": "1. FC Union Berlin",
+        "search": ["1. fc union berlin"],
+        "country": "DE"
+    },
+    {
+        "id": "0346",
+        "name": "Austria Lustenau",
+        "search": ["austria lustenau"],
+        "country": "AT"
+    },
+    {
+        "id": "0347",
+        "name": "Ipswich Town",
+        "search": ["ipswich town"],
+        "country": "GB"
+    },
+    {
+        "id": "0348",
+        "name": "Servette",
+        "search": ["servette", "servette fc"],
+        "country": "CH"
+    },
+    {
+        "id": "0349",
+        "name": "Sarpsborg",
+        "search": ["sarpsborg"],
+        "country": "NO"
+    },
+    {
+        "id": "0350",
+        "name": "DC United",
+        "search": ["dc united"],
+        "country": "US"
+    },
+    {
+        "id": "0351",
+        "name": "Mirandes",
+        "search": ["cd mirandés", "mirandes"],
+        "country": "ES"
+    },
+    {
+        "id": "0352",
+        "name": "Grasshoppers Zürich",
+        "search": ["grasshoppers zürich", "fc zürich", "grasshopper club zürich"],
+        "country": "CH"
+    },
+    {
+        "id": "0353",
+        "name": "Platense",
+        "search": ["platense"],
+        "country": "AR"
+    },
+    {
+        "id": "0354",
+        "name": "Fakel Voronezh",
+        "search": ["fakel voronezh"],
+        "country": "RU"
+    },
+    {
+        "id": "0355",
+        "name": "Ankaragucu",
+        "search": ["ankaragucu"],
+        "country": "TR"
+    },
+    {
+        "id": "0356",
+        "name": "Juventus",
+        "search": ["juventus", "juventus fc"],
+        "country": "IT"
+    },
+    {
+        "id": "0357",
+        "name": "Perugia",
+        "search": ["perugia"],
+        "country": "IT"
+    },
+    {
+        "id": "0358",
+        "name": "Nagoya Grampus Eight",
+        "search": ["nagoya grampus eight"],
+        "country": "JP"
+    },
+    {
+        "id": "0359",
+        "name": "Motherwell",
+        "search": ["motherwell"],
+        "country": "GB-SCT"
+    },
+    {
+        "id": "0360",
+        "name": "1. FC Heidenheim 1846",
+        "search": ["1. fc heidenheim 1846"],
+        "country": "DE"
+    },
+    {
+        "id": "0361",
+        "name": "KV Oostende",
+        "search": ["kv oostende"],
+        "country": "BE"
+    },
+    {
+        "id": "0362",
+        "name": "Giresunspor",
+        "search": ["giresunspor"],
+        "country": "TR"
+    },
+    {
+        "id": "0363",
+        "name": "Ternana",
+        "search": ["ternana"],
+        "country": "IT"
+    },
+    {
+        "id": "0364",
+        "name": "Rotherham United",
+        "search": ["rotherham united"],
+        "country": "GB"
+    },
+    {
+        "id": "0365",
+        "name": "FC Tokyo",
+        "search": ["fc tokyo"],
+        "country": "JP"
+    },
+    {
+        "id": "0366",
+        "name": "Barnsley",
+        "search": ["barnsley"],
+        "country": "GB"
+    },
+    {
+        "id": "0367",
+        "name": "Club Brugge",
+        "search": ["club brugge"],
+        "country": "BE"
+    },
+    {
+        "id": "0368",
+        "name": "Spal",
+        "search": ["spal"],
+        "country": "IT"
+    },
+    {
+        "id": "0369",
+        "name": "Atlético Tucumán",
+        "search": ["atlético tucumán"],
+        "country": "AR"
+    },
+    {
+        "id": "0370",
+        "name": "Hannover 96",
+        "search": ["hannover 96"],
+        "country": "DE"
+    },
+    {
+        "id": "0371",
+        "name": "FK Nizhny Novgorod",
+        "search": ["fk nizhny novgorod"],
+        "country": "RU"
+    },
+    {
+        "id": "0372",
+        "name": "SV Zulte Waregem",
+        "search": ["sv zulte waregem"],
+        "country": "BE"
+    },
+    {
+        "id": "0373",
+        "name": "Cittadella",
+        "search": ["cittadella"],
+        "country": "IT"
+    },
+    {
+        "id": "0374",
+        "name": "Central Córdoba Santiago del Estero",
+        "search": ["central córdoba santiago del estero"],
+        "country": "AR"
+    },
+    {
+        "id": "0375",
+        "name": "FC Lugano",
+        "search": ["fc lugano"],
+        "country": "CH"
+    },
+    {
+        "id": "0376",
+        "name": "Volos NFC",
+        "search": ["volos nfc"],
+        "country": "GR"
+    },
+    {
+        "id": "0377",
+        "name": "St Mirren",
+        "search": ["st mirren"],
+        "country": "GB-SCT"
+    },
+    {
+        "id": "0378",
+        "name": "Lazio",
+        "search": ["lazio", "ss lazio"],
+        "country": "IT"
+    },
+    {
+        "id": "0379",
+        "name": "Avispa Fukuoka",
+        "search": ["avispa fukuoka"],
+        "country": "JP"
+    },
+    {
+        "id": "0380",
+        "name": "AC Horsens",
+        "search": ["ac horsens"],
+        "country": "DK"
+    },
+    {
+        "id": "0381",
+        "name": "Sarmiento",
+        "search": ["sarmiento"],
+        "country": "AR"
+    },
+    {
+        "id": "0382",
+        "name": "Melbourne City",
+        "search": ["melbourne city"],
+        "country": "AU"
+    },
+    {
+        "id": "0383",
+        "name": "Tampa Bay Rowdies",
+        "search": ["tampa bay rowdies"],
+        "country": "US"
+    },
+    {
+        "id": "0384",
+        "name": "UD Ibiza",
+        "search": ["ud ibiza"],
+        "country": "ES"
+    },
+    {
+        "id": "0385",
+        "name": "Le Havre",
+        "search": ["le havre"],
+        "country": "FR"
+    },
+    {
+        "id": "0386",
+        "name": "Torpedo Moskow",
+        "search": ["torpedo moskow"],
+        "country": "RU"
+    },
+    {
+        "id": "0387",
+        "name": "Louisville City FC",
+        "search": ["louisville city fc"],
+        "country": "US"
+    },
+    {
+        "id": "0388",
+        "name": "Milton Keynes Dons",
+        "search": ["milton keynes dons"],
+        "country": "GB"
+    },
+    {
+        "id": "0389",
+        "name": "Celtic",
+        "search": ["celtic"],
+        "country": "GB-SCT"
+    },
+    {
+        "id": "0390",
+        "name": "Haugesund",
+        "search": ["haugesund"],
+        "country": "NO"
+    },
+    {
+        "id": "0391",
+        "name": "Bastia",
+        "search": ["bastia"],
+        "country": "FR"
+    },
+    {
+        "id": "0392",
+        "name": "Como",
+        "search": ["como"],
+        "country": "IT"
+    },
+    {
+        "id": "0393",
+        "name": "Jahn Regensburg",
+        "search": ["jahn regensburg"],
+        "country": "DE"
+    },
+    {
+        "id": "0394",
+        "name": "IFK Goteborg",
+        "search": ["ifk goteborg"],
+        "country": "SE"
+    },
+    {
+        "id": "0395",
+        "name": "Cashpoint SC Rheindorf Altach",
+        "search": ["cashpoint sc rheindorf altach"],
+        "country": "AT"
+    },
+    {
+        "id": "0396",
+        "name": "Shimizu S-Pulse",
+        "search": ["shimizu s-pulse"]
+    },
+    {
+        "id": "0397",
+        "name": "SD Ponferradina",
+        "search": ["sd ponferradina"],
+        "country": "ES"
+    },
+    {
+        "id": "0398",
+        "name": "FC Sion",
+        "search": ["fc sion"],
+        "country": "CH"
+    },
+    {
+        "id": "0399",
+        "name": "Patronato",
+        "search": ["patronato"]
+    },
+    {
+        "id": "0400",
+        "name": "Marseille",
+        "search": ["marseille", "olympique de marseille"],
+        "country": "FR"
+    },
+    {
+        "id": "0401",
+        "name": "Maccabi Haifa",
+        "search": ["maccabi haifa"]
+    },
+    {
+        "id": "0402",
+        "name": "Burgos",
+        "search": ["burgos"],
+        "country": "ES"
+    },
+    {
+        "id": "0403",
+        "name": "Holstein Kiel",
+        "search": ["holstein kiel"],
+        "country": "DE"
+    },
+    {
+        "id": "0404",
+        "name": "Málaga",
+        "search": ["málaga"],
+        "country": "ES"
+    },
+    {
+        "id": "0405",
+        "name": "Istanbulspor",
+        "search": ["istanbulspor"],
+        "country": "TR"
+    },
+    {
+        "id": "0406",
+        "name": "Aalesund",
+        "search": ["aalesund"],
+        "country": "NO"
+    },
+    {
+        "id": "0407",
+        "name": "Karlsruher SC",
+        "search": ["karlsruher sc"],
+        "country": "DE"
+    },
+    {
+        "id": "0408",
+        "name": "Grenoble",
+        "search": ["grenoble"],
+        "country": "FR"
+    },
+    {
+        "id": "0409",
+        "name": "Barracas Central",
+        "search": ["barracas central"],
+        "country": "AR"
+    },
+    {
+        "id": "0410",
+        "name": "Umraniyespor",
+        "search": ["umraniyespor"],
+        "country": "TR"
+    },
+    {
+        "id": "0411",
+        "name": "Borussia Monchengladbach",
+        "search": ["borussia monchengladbach"],
+        "country": "DE"
+    },
+    {
+        "id": "0412",
+        "name": "San Antonio FC",
+        "search": ["san antonio fc"],
+        "country": "US"
+    },
+    {
+        "id": "0413",
+        "name": "Lyngby",
+        "search": ["lyngby"],
+        "country": "DK"
+    },
+    {
+        "id": "0414",
+        "name": "Villarreal B",
+        "search": ["villarreal b"],
+        "country": "ES"
+    },
+    {
+        "id": "0415",
+        "name": "Hansa Rostock",
+        "search": ["hansa rostock"],
+        "country": "DE"
+    },
+    {
+        "id": "0416",
+        "name": "Portsmouth",
+        "search": ["portsmouth"],
+        "country": "GB"
+    },
+    {
+        "id": "0417",
+        "name": "Oxford United",
+        "search": ["oxford united"],
+        "country": "GB"
+    },
+    {
+        "id": "0418",
+        "name": "HJK Helsinki",
+        "search": ["hjk helsinki"]
+    },
+    {
+        "id": "0419",
+        "name": "Wycombe Wanderers",
+        "search": ["wycombe wanderers"],
+        "country": "GB"
+    },
+    {
+        "id": "0420",
+        "name": "Niort",
+        "search": ["niort"],
+        "country": "FR"
+    },
+    {
+        "id": "0421",
+        "name": "Bolton",
+        "search": ["bolton"],
+        "country": "GB"
+    },
+    {
+        "id": "0422",
+        "name": "Celta Vigo",
+        "search": ["celta vigo", "rc celta"],
+        "country": "ES"
+    },
+    {
+        "id": "0423",
+        "name": "Arsenal Sarandi",
+        "search": ["arsenal sarandi"],
+        "country": "AR"
+    },
+    {
+        "id": "0424",
+        "name": "St Johnstone",
+        "search": ["st johnstone"],
+        "country": "GB-SCT"
+    },
+    {
+        "id": "0425",
+        "name": "Guangzhou Evergrande",
+        "search": ["guangzhou evergrande"],
+        "country": "CN"
+    },
+    {
+        "id": "0426",
+        "name": "Eupen",
+        "search": ["eupen"],
+        "country": "BE"
+    },
+    {
+        "id": "0427",
+        "name": "Shonan Bellmare",
+        "search": ["shonan bellmare"],
+        "country": "JP"
+    },
+    {
+        "id": "0428",
+        "name": "Valenciennes",
+        "search": ["valenciennes"],
+        "country": "FR"
+    },
+    {
+        "id": "0429",
+        "name": "Pau",
+        "search": ["pau"],
+        "country": "FR"
+    },
+    {
+        "id": "0430",
+        "name": "Lugo",
+        "search": ["lugo"],
+        "country": "ES"
+    },
+    {
+        "id": "0431",
+        "name": "Gamba Osaka",
+        "search": ["gamba osaka"],
+        "country": "JP"
+    },
+    {
+        "id": "0432",
+        "name": "Odd BK",
+        "search": ["odd bk"],
+        "country": "NO"
+    },
+    {
+        "id": "0433",
+        "name": "Mainz",
+        "search": ["mainz"],
+        "country": "DE"
+    },
+    {
+        "id": "0434",
+        "name": "Bari",
+        "search": ["bari"],
+        "country": "IT"
+    },
+    {
+        "id": "0435",
+        "name": "Asteras Tripolis",
+        "search": ["asteras tripolis"],
+        "country": "GR"
+    },
+    {
+        "id": "0436",
+        "name": "Shamrock Rovers",
+        "search": ["shamrock rovers"]
+    },
+    {
+        "id": "0437",
+        "name": "Giannina",
+        "search": ["giannina"],
+        "country": "GR"
+    },
+    {
+        "id": "0438",
+        "name": "Racing Santander",
+        "search": ["racing santander"],
+        "country": "ES"
+    },
+    {
+        "id": "0439",
+        "name": "Modena",
+        "search": ["modena"],
+        "country": "IT"
+    },
+    {
+        "id": "0440",
+        "name": "Kalmar FF",
+        "search": ["kalmar ff"],
+        "country": "SE"
+    },
+    {
+        "id": "0441",
+        "name": "IFK Norrkoping",
+        "search": ["ifk norrkoping"],
+        "country": "SE"
+    },
+    {
+        "id": "0442",
+        "name": "OFI Crete",
+        "search": ["ofi crete"],
+        "country": "GR"
+    },
+    {
+        "id": "0443",
+        "name": "SV Sandhausen",
+        "search": ["sv sandhausen"],
+        "country": "DE"
+    },
+    {
+        "id": "0444",
+        "name": "Chelsea",
+        "search": ["chelsea", "chelsea fc"],
+        "country": "GB"
+    },
+    {
+        "id": "0445",
+        "name": "Lille",
+        "search": ["lille", "losc lille"],
+        "country": "FR"
+    },
+    {
+        "id": "0446",
+        "name": "Aldosivi",
+        "search": ["aldosivi"]
+    },
+    {
+        "id": "0447",
+        "name": "Kyoto Purple Sanga",
+        "search": ["kyoto purple sanga"],
+        "country": "JP"
+    },
+    {
+        "id": "0448",
+        "name": "Sydney FC",
+        "search": ["sydney fc"],
+        "country": "AU"
+    },
+    {
+        "id": "0449",
+        "name": "Mjallby",
+        "search": ["mjallby"],
+        "country": "SE"
+    },
+    {
+        "id": "0450",
+        "name": "FC Andorra",
+        "search": ["fc andorra"],
+        "country": "ES"
+    },
+    {
+        "id": "0451",
+        "name": "Orlando Pirates",
+        "search": ["orlando pirates"],
+        "country": "ZA"
+    },
+    {
+        "id": "0452",
+        "name": "Laval",
+        "search": ["laval"],
+        "country": "FR"
+    },
+    {
+        "id": "0453",
+        "name": "Pittsburgh Riverhounds",
+        "search": ["pittsburgh riverhounds"],
+        "country": "US"
+    },
+    {
+        "id": "0454",
+        "name": "Albacete",
+        "search": ["albacete"],
+        "country": "ES"
+    },
+    {
+        "id": "0455",
+        "name": "Rodez",
+        "search": ["rodez"],
+        "country": "FR"
+    },
+    {
+        "id": "0456",
+        "name": "Newcastle",
+        "search": ["newcastle"],
+        "country": "GB"
+    },
+    {
+        "id": "0457",
+        "name": "Annecy",
+        "search": ["annecy"],
+        "country": "FR"
+    },
+    {
+        "id": "0458",
+        "name": "Melbourne Victory",
+        "search": ["melbourne victory"],
+        "country": "AU"
+    },
+    {
+        "id": "0459",
+        "name": "Kaizer Chiefs",
+        "search": ["kaizer chiefs"],
+        "country": "ZA"
+    },
+    {
+        "id": "0460",
+        "name": "Beijing Guoan",
+        "search": ["beijing guoan"],
+        "country": "CN"
+    },
+    {
+        "id": "0461",
+        "name": "Palermo",
+        "search": ["palermo"],
+        "country": "IT"
+    },
+    {
+        "id": "0462",
+        "name": "Sudtirol",
+        "search": ["sudtirol"],
+        "country": "IT"
+    },
+    {
+        "id": "0463",
+        "name": "Peterborough United",
+        "search": ["peterborough united"],
+        "country": "GB"
+    },
+    {
+        "id": "0464",
+        "name": "Reggina",
+        "search": ["reggina"],
+        "country": "IT"
+    },
+    {
+        "id": "0465",
+        "name": "Shanghai SIPG",
+        "search": ["shanghai sipg"],
+        "country": "CN"
+    },
+    {
+        "id": "0466",
+        "name": "Winterthur",
+        "search": ["winterthur", "fc winterthur"],
+        "country": "CH"
+    },
+    {
+        "id": "0467",
+        "name": "Brentford",
+        "search": ["brentford", "brentford fc"],
+        "country": "GB"
+    },
+    {
+        "id": "0468",
+        "name": "Atromitos",
+        "search": ["atromitos"],
+        "country": "GR"
+    },
+    {
+        "id": "0469",
+        "name": "RFC Seraing",
+        "search": ["rfc seraing"],
+        "country": "BE"
+    },
+    {
+        "id": "0470",
+        "name": "Cosenza",
+        "search": ["cosenza"],
+        "country": "IT"
+    },
+    {
+        "id": "0471",
+        "name": "Salford City",
+        "search": ["salford city"],
+        "country": "GB"
+    },
+    {
+        "id": "0472",
+        "name": "San Diego Loyal SC",
+        "search": ["san diego loyal sc"],
+        "country": "US"
+    },
+    {
+        "id": "0473",
+        "name": "IK Sirius",
+        "search": ["ik sirius"],
+        "country": "SE"
+    },
+    {
+        "id": "0474",
+        "name": "Tromso",
+        "search": ["tromso"],
+        "country": "NO"
+    },
+    {
+        "id": "0475",
+        "name": "Jubilo Iwata",
+        "search": ["jubilo iwata"]
+    },
+    {
+        "id": "0476",
+        "name": "Panetolikos",
+        "search": ["panetolikos"],
+        "country": "GR"
+    },
+    {
+        "id": "0477",
+        "name": "US Quevilly",
+        "search": ["us quevilly"],
+        "country": "FR"
+    },
+    {
+        "id": "0478",
+        "name": "Eintracht Frankfurt",
+        "search": ["eintracht frankfurt"],
+        "country": "DE"
+    },
+    {
+        "id": "0479",
+        "name": "Consadole Sapporo",
+        "search": ["consadole sapporo"],
+        "country": "JP"
+    },
+    {
+        "id": "0480",
+        "name": "Lincoln City",
+        "search": ["lincoln city"],
+        "country": "GB"
+    },
+    {
+        "id": "0481",
+        "name": "Charlton Athletic",
+        "search": ["charlton athletic"],
+        "country": "GB"
+    },
+    {
+        "id": "0482",
+        "name": "Plymouth Argyle",
+        "search": ["plymouth argyle"],
+        "country": "GB"
+    },
+    {
+        "id": "0483",
+        "name": "Western Sydney FC",
+        "search": ["western sydney fc"],
+        "country": "AU"
+    },
+    {
+        "id": "0484",
+        "name": "1. FC Kaiserslautern",
+        "search": ["1. fc kaiserslautern"],
+        "country": "DE"
+    },
+    {
+        "id": "0485",
+        "name": "SuperSport United",
+        "search": ["supersport united"],
+        "country": "ZA"
+    },
+    {
+        "id": "0486",
+        "name": "Western United",
+        "search": ["western united"],
+        "country": "AU"
+    },
+    {
+        "id": "0487",
+        "name": "New Mexico United",
+        "search": ["new mexico united"],
+        "country": "US"
+    },
+    {
+        "id": "0488",
+        "name": "1. FC Magdeburg",
+        "search": ["1. fc magdeburg"],
+        "country": "DE"
+    },
+    {
+        "id": "0489",
+        "name": "VfL Wolfsburg",
+        "search": ["vfl wolfsburg"],
+        "country": "DE"
+    },
+    {
+        "id": "0490",
+        "name": "Shrewsbury Town",
+        "search": ["shrewsbury town"],
+        "country": "GB"
+    },
+    {
+        "id": "0491",
+        "name": "Adelaide United",
+        "search": ["adelaide united"],
+        "country": "AU"
+    },
+    {
+        "id": "0492",
+        "name": "Alashkert FC",
+        "search": ["alashkert fc"]
+    },
+    {
+        "id": "0493",
+        "name": "Central Coast Mariners",
+        "search": ["central coast mariners"],
+        "country": "AU"
+    },
+    {
+        "id": "0494",
+        "name": "Newcastle Jets",
+        "search": ["newcastle jets"],
+        "country": "AU"
+    },
+    {
+        "id": "0495",
+        "name": "Black Aces",
+        "search": ["black aces"],
+        "country": "ZA"
+    },
+    {
+        "id": "0496",
+        "name": "Eintracht Braunschweig",
+        "search": ["eintracht braunschweig"],
+        "country": "DE"
+    },
+    {
+        "id": "0497",
+        "name": "Arizona United",
+        "search": ["arizona united"],
+        "country": "US"
+    },
+    {
+        "id": "0498",
+        "name": "Oakland Roots",
+        "search": ["oakland roots"],
+        "country": "US"
+    },
+    {
+        "id": "0499",
+        "name": "Memphis 901 FC",
+        "search": ["memphis 901 fc"],
+        "country": "US"
+    },
+    {
+        "id": "0500",
+        "name": "Valencia",
+        "search": ["valencia", "valencia cf"],
+        "country": "ES"
+    },
+    {
+        "id": "0501",
+        "name": "Colorado Springs Switchbacks FC",
+        "search": ["colorado springs switchbacks fc"],
+        "country": "US"
+    },
+    {
+        "id": "0502",
+        "name": "Birmingham Legion FC",
+        "search": ["birmingham legion fc"],
+        "country": "US"
+    },
+    {
+        "id": "0503",
+        "name": "El Paso Locomotive FC",
+        "search": ["el paso locomotive fc"],
+        "country": "US"
+    },
+    {
+        "id": "0504",
+        "name": "Colchester United",
+        "search": ["colchester united"],
+        "country": "GB"
+    },
+    {
+        "id": "0505",
+        "name": "Shandong Luneng",
+        "search": ["shandong luneng"],
+        "country": "CN"
+    },
+    {
+        "id": "0506",
+        "name": "Jiangsu Suning FC",
+        "search": ["jiangsu suning fc"],
+        "country": "CN"
+    },
+    {
+        "id": "0507",
+        "name": "Fleetwood Town",
+        "search": ["fleetwood town"],
+        "country": "GB"
+    },
+    {
+        "id": "0508",
+        "name": "Cheltenham Town",
+        "search": ["cheltenham town"],
+        "country": "GB"
+    },
+    {
+        "id": "0509",
+        "name": "Forest Green Rovers",
+        "search": ["forest green rovers"],
+        "country": "GB"
+    },
+    {
+        "id": "0510",
+        "name": "Rio Grande Valley FC Toros",
+        "search": ["rio grande valley fc toros"],
+        "country": "US"
+    },
+    {
+        "id": "0511",
+        "name": "SC Freiburg",
+        "search": ["sc freiburg"],
+        "country": "DE"
+    },
+    {
+        "id": "0512",
+        "name": "Burton Albion",
+        "search": ["burton albion"],
+        "country": "GB"
+    },
+    {
+        "id": "0513",
+        "name": "Lamia",
+        "search": ["lamia"],
+        "country": "GR"
+    },
+    {
+        "id": "0514",
+        "name": "Sacramento Republic FC",
+        "search": ["sacramento republic fc"],
+        "country": "US"
+    },
+    {
+        "id": "0515",
+        "name": "Miami FC",
+        "search": ["miami fc"],
+        "country": "US"
+    },
+    {
+        "id": "0516",
+        "name": "Swindon Town",
+        "search": ["swindon town"],
+        "country": "GB"
+    },
+    {
+        "id": "0517",
+        "name": "Mansfield Town",
+        "search": ["mansfield town"],
+        "country": "GB"
+    },
+    {
+        "id": "0518",
+        "name": "Brisbane Roar",
+        "search": ["brisbane roar"],
+        "country": "AU"
+    },
+    {
+        "id": "0519",
+        "name": "Stellenbosch FC",
+        "search": ["stellenbosch fc"],
+        "country": "ZA"
+    },
+    {
+        "id": "0520",
+        "name": "Doncaster Rovers",
+        "search": ["doncaster rovers"],
+        "country": "GB"
+    },
+    {
+        "id": "0521",
+        "name": "Lincoln Red Imps",
+        "search": ["lincoln red imps"]
+    },
+    {
+        "id": "0522",
+        "name": "Wolverhampton",
+        "search": ["wolverhampton"],
+        "country": "GB"
+    },
+    {
+        "id": "0523",
+        "name": "Macarthur FC",
+        "search": ["macarthur fc"],
+        "country": "AU"
+    },
+    {
+        "id": "0524",
+        "name": "Accrington Stanley",
+        "search": ["accrington stanley"],
+        "country": "GB"
+    },
+    {
+        "id": "0525",
+        "name": "Port Vale",
+        "search": ["port vale"],
+        "country": "GB"
+    },
+    {
+        "id": "0526",
+        "name": "Bristol Rovers",
+        "search": ["bristol rovers"],
+        "country": "GB"
+    },
+    {
+        "id": "0527",
+        "name": "Orange County SC",
+        "search": ["orange county sc"],
+        "country": "US"
+    },
+    {
+        "id": "0528",
+        "name": "Varbergs BoIS FC",
+        "search": ["varbergs bois fc"],
+        "country": "SE"
+    },
+    {
+        "id": "0529",
+        "name": "Cambridge United",
+        "search": ["cambridge united"],
+        "country": "GB"
+    },
+    {
+        "id": "0530",
+        "name": "Exeter City",
+        "search": ["exeter city"],
+        "country": "GB"
+    },
+    {
+        "id": "0531",
+        "name": "AmaZulu",
+        "search": ["amazulu"],
+        "country": "ZA"
+    },
+    {
+        "id": "0532",
+        "name": "IFK Värnamo",
+        "search": ["ifk värnamo"],
+        "country": "SE"
+    },
+    {
+        "id": "0533",
+        "name": "Fiorentina",
+        "search": ["fiorentina", "acf fiorentina"],
+        "country": "IT"
+    },
+    {
+        "id": "0534",
+        "name": "Golden Arrows",
+        "search": ["golden arrows"],
+        "country": "ZA"
+    },
+    {
+        "id": "0535",
+        "name": "Detroit City FC",
+        "search": ["detroit city fc"],
+        "country": "US"
+    },
+    {
+        "id": "0536",
+        "name": "Northampton Town",
+        "search": ["northampton town"],
+        "country": "GB"
+    },
+    {
+        "id": "0537",
+        "name": "Gillingham",
+        "search": ["gillingham"],
+        "country": "GB"
+    },
+    {
+        "id": "0538",
+        "name": "Morecambe",
+        "search": ["morecambe"],
+        "country": "GB"
+    },
+    {
+        "id": "0539",
+        "name": "LA Galaxy II",
+        "search": ["la galaxy ii"]
+    },
+    {
+        "id": "0540",
+        "name": "Helsingborgs IF",
+        "search": ["helsingborgs if"],
+        "country": "SE"
+    },
+    {
+        "id": "0541",
+        "name": "Wellington Phoenix",
+        "search": ["wellington phoenix"],
+        "country": "AU"
+    },
+    {
+        "id": "0542",
+        "name": "Degerfors IF",
+        "search": ["degerfors if"],
+        "country": "SE"
+    },
+    {
+        "id": "0543",
+        "name": "Leyton Orient",
+        "search": ["leyton orient"],
+        "country": "GB"
+    },
+    {
+        "id": "0544",
+        "name": "Strasbourg",
+        "search": ["strasbourg", "rc strasbourg alsace"],
+        "country": "FR"
+    },
+    {
+        "id": "0545",
+        "name": "Sekhukhune United",
+        "search": ["sekhukhune united"],
+        "country": "ZA"
+    },
+    {
+        "id": "0546",
+        "name": "Apollon Smyrni",
+        "search": ["apollon smyrni"]
+    },
+    {
+        "id": "0547",
+        "name": "Tranmere Rovers",
+        "search": ["tranmere rovers"],
+        "country": "GB"
+    },
+    {
+        "id": "0548",
+        "name": "Royal AM",
+        "search": ["royal am"],
+        "country": "ZA"
+    },
+    {
+        "id": "0549",
+        "name": "GIF Sundsvall",
+        "search": ["gif sundsvall"],
+        "country": "SE"
+    },
+    {
+        "id": "0550",
+        "name": "Maritzburg Utd",
+        "search": ["maritzburg utd"],
+        "country": "ZA"
+    },
+    {
+        "id": "0551",
+        "name": "Tianjin Teda",
+        "search": ["tianjin teda"],
+        "country": "CN"
+    },
+    {
+        "id": "0552",
+        "name": "Tulsa Roughnecks",
+        "search": ["tulsa roughnecks"],
+        "country": "US"
+    },
+    {
+        "id": "0553",
+        "name": "Tshakhuma Tsha Madzivhandila",
+        "search": ["tshakhuma tsha madzivhandila"],
+        "country": "ZA"
+    },
+    {
+        "id": "0554",
+        "name": "Moroka Swallows",
+        "search": ["moroka swallows"],
+        "country": "ZA"
+    },
+    {
+        "id": "0555",
+        "name": "Ajax",
+        "search": ["ajax", "afc ajax"],
+        "country": "NL"
+    },
+    {
+        "id": "0556",
+        "name": "Flamengo",
+        "search": ["flamengo"],
+        "country": "BR"
+    },
+    {
+        "id": "0557",
+        "name": "Hartford Athletic",
+        "search": ["hartford athletic"],
+        "country": "US"
+    },
+    {
+        "id": "0558",
+        "name": "Rochdale",
+        "search": ["rochdale"],
+        "country": "GB"
+    },
+    {
+        "id": "0559",
+        "name": "Shanghai Greenland",
+        "search": ["shanghai greenland"],
+        "country": "CN"
+    },
+    {
+        "id": "0560",
+        "name": "Sutton United",
+        "search": ["sutton united"],
+        "country": "GB"
+    },
+    {
+        "id": "0561",
+        "name": "TS Galaxy",
+        "search": ["ts galaxy"],
+        "country": "ZA"
+    },
+    {
+        "id": "0562",
+        "name": "Monterey Bay",
+        "search": ["monterey bay"],
+        "country": "US"
+    },
+    {
+        "id": "0563",
+        "name": "Charleston Battery",
+        "search": ["charleston battery"],
+        "country": "US"
+    },
+    {
+        "id": "0564",
+        "name": "Newport County",
+        "search": ["newport county"],
+        "country": "GB"
+    },
+    {
+        "id": "0565",
+        "name": "AFC Wimbledon",
+        "search": ["afc wimbledon"],
+        "country": "GB"
+    },
+    {
+        "id": "0566",
+        "name": "Hebei China Fortune FC",
+        "search": ["hebei china fortune fc"],
+        "country": "CN"
+    },
+    {
+        "id": "0567",
+        "name": "FC Cologne",
+        "search": ["fc cologne"],
+        "country": "DE"
+    },
+    {
+        "id": "0568",
+        "name": "Chippa United",
+        "search": ["chippa united"],
+        "country": "ZA"
+    },
+    {
+        "id": "0569",
+        "name": "Bradford City",
+        "search": ["bradford city"],
+        "country": "GB"
+    },
+    {
+        "id": "0570",
+        "name": "Henan Jianye",
+        "search": ["henan jianye"],
+        "country": "CN"
+    },
+    {
+        "id": "0571",
+        "name": "Crewe Alexandra",
+        "search": ["crewe alexandra"],
+        "country": "GB"
+    },
+    {
+        "id": "0572",
+        "name": "Dalian Aerbin",
+        "search": ["dalian aerbin"],
+        "country": "CN"
+    },
+    {
+        "id": "0573",
+        "name": "Guangzhou RF",
+        "search": ["guangzhou rf"],
+        "country": "CN"
+    },
+    {
+        "id": "0574",
+        "name": "Indy Eleven",
+        "search": ["indy eleven"],
+        "country": "US"
+    },
+    {
+        "id": "0575",
+        "name": "Perth Glory",
+        "search": ["perth glory"],
+        "country": "AU"
+    },
+    {
+        "id": "0576",
+        "name": "Wuhan Zall",
+        "search": ["wuhan zall"],
+        "country": "CN"
+    },
+    {
+        "id": "0577",
+        "name": "Stockport County",
+        "search": ["stockport county"],
+        "country": "GB"
+    },
+    {
+        "id": "0578",
+        "name": "TSG Hoffenheim",
+        "search": ["tsg hoffenheim"],
+        "country": "DE"
+    },
+    {
+        "id": "0579",
+        "name": "Las Vegas Lights FC",
+        "search": ["las vegas lights fc"],
+        "country": "US"
+    },
+    {
+        "id": "0580",
+        "name": "Crawley Town",
+        "search": ["crawley town"],
+        "country": "GB"
+    },
+    {
+        "id": "0581",
+        "name": "Stevenage",
+        "search": ["stevenage"],
+        "country": "GB"
+    },
+    {
+        "id": "0582",
+        "name": "Tianjin Quanujian",
+        "search": ["tianjin quanujian"],
+        "country": "CN"
+    },
+    {
+        "id": "0583",
+        "name": "Harrogate Town",
+        "search": ["harrogate town"],
+        "country": "GB"
+    },
+    {
+        "id": "0584",
+        "name": "Shenzhen FC",
+        "search": ["shenzhen fc"],
+        "country": "CN"
+    },
+    {
+        "id": "0585",
+        "name": "Grimsby Town",
+        "search": ["grimsby town"],
+        "country": "GB"
+    },
+    {
+        "id": "0586",
+        "name": "Chongqing Lifan",
+        "search": ["chongqing lifan"],
+        "country": "CN"
+    },
+    {
+        "id": "0587",
+        "name": "Atlanta United 2",
+        "search": ["atlanta united 2"]
+    },
+    {
+        "id": "0588",
+        "name": "Barrow",
+        "search": ["barrow"],
+        "country": "GB"
+    },
+    {
+        "id": "0589",
+        "name": "Fenerbahce",
+        "search": ["fenerbahce", "fenerbahçe sk"],
+        "country": "TR"
+    },
+    {
+        "id": "0590",
+        "name": "Loudoun United FC",
+        "search": ["loudoun united fc"],
+        "country": "US"
+    },
+    {
+        "id": "0591",
+        "name": "Walsall",
+        "search": ["walsall"],
+        "country": "GB"
+    },
+    {
+        "id": "0592",
+        "name": "Carlisle United",
+        "search": ["carlisle united"],
+        "country": "GB"
+    },
+    {
+        "id": "0593",
+        "name": "Hartlepool",
+        "search": ["hartlepool"],
+        "country": "GB"
+    },
+    {
+        "id": "0594",
+        "name": "New York Red Bulls II",
+        "search": ["new york red bulls ii"]
+    },
+    {
+        "id": "0595",
+        "name": "Guizhou Renhe",
+        "search": ["guizhou renhe"],
+        "country": "CN"
+    },
+    {
+        "id": "0596",
+        "name": "Getafe",
+        "search": ["getafe", "getafe cf"],
+        "country": "ES"
+    },
+    {
+        "id": "0597",
+        "name": "Palmeiras",
+        "search": ["palmeiras"],
+        "country": "BR"
+    },
+    {
+        "id": "0598",
+        "name": "Lens",
+        "search": ["lens"],
+        "country": "FR"
+    },
+    {
+        "id": "0599",
+        "name": "VfB Stuttgart",
+        "search": ["vfb stuttgart"],
+        "country": "DE"
+    },
+    {
+        "id": "0600",
+        "name": "Slavia Prague",
+        "search": ["slavia prague"]
+    },
+    {
+        "id": "0601",
+        "name": "Nice",
+        "search": ["nice", "ogc nice"],
+        "country": "FR"
+    },
+    {
+        "id": "0602",
+        "name": "Barcelona",
+        "search": ["barcelona", "fc barcelona", "rcd espanyol de barcelona"],
+        "country": "ES"
+    },
+    {
+        "id": "0603",
+        "name": "Monterrey",
+        "search": ["monterrey"]
+    },
+    {
+        "id": "0604",
+        "name": "Everton",
+        "search": ["everton"],
+        "country": "GB"
+    },
+    {
+        "id": "0605",
+        "name": "Osasuna",
+        "search": ["osasuna", "ca osasuna"],
+        "country": "ES"
+    },
+    {
+        "id": "0606",
+        "name": "Rayo Vallecano",
+        "search": ["rayo vallecano", "rayo vallecano de madrid"],
+        "country": "ES"
+    },
+    {
+        "id": "0607",
+        "name": "Dinamo Zagreb",
+        "search": ["dinamo zagreb"]
+    },
+    {
+        "id": "0608",
+        "name": "Torino",
+        "search": ["torino", "torino fc 1906"],
+        "country": "IT"
+    },
+    {
+        "id": "0609",
+        "name": "River Plate",
+        "search": ["river plate"],
+        "country": "AR"
+    },
+    {
+        "id": "0610",
+        "name": "Cadiz",
+        "search": ["cadiz", "cádiz cf"],
+        "country": "ES"
+    },
+    {
+        "id": "0611",
+        "name": "Tigres UANL",
+        "search": ["tigres uanl"]
+    },
+    {
+        "id": "0612",
+        "name": "Young Boys",
+        "search": ["young boys", "bsc young boys"],
+        "country": "CH"
+    },
+    {
+        "id": "0613",
+        "name": "Internazionale",
+        "search": ["internazionale"],
+        "country": "IT"
+    },
+    {
+        "id": "0614",
+        "name": "Leeds United",
+        "search": ["leeds united"],
+        "country": "GB"
+    },
+    {
+        "id": "0615",
+        "name": "AZ",
+        "search": ["az", "az alkmaar"],
+        "country": "NL"
+    },
+    {
+        "id": "0616",
+        "name": "FC Twente",
+        "search": ["fc twente"],
+        "country": "NL"
+    },
+    {
+        "id": "0617",
+        "name": "Verona",
+        "search": ["verona", "hellas verona fc"],
+        "country": "IT"
+    },
+    {
+        "id": "0618",
+        "name": "Southampton",
+        "search": ["southampton"],
+        "country": "GB"
+    },
+    {
+        "id": "0619",
+        "name": "FC Augsburg",
+        "search": ["fc augsburg"],
+        "country": "DE"
+    },
+    {
+        "id": "0620",
+        "name": "FC Copenhagen",
+        "search": ["fc copenhagen"],
+        "country": "DK"
+    },
+    {
+        "id": "0621",
+        "name": "VfL Bochum",
+        "search": ["vfl bochum"],
+        "country": "DE"
+    },
+    {
+        "id": "0622",
+        "name": "Braga",
+        "search": ["braga"],
+        "country": "PT"
+    },
+    {
+        "id": "0623",
+        "name": "Genk",
+        "search": ["genk"],
+        "country": "BE"
+    },
+    {
+        "id": "0624",
+        "name": "Tottenham Hotspur",
+        "search": ["tottenham hotspur"],
+        "country": "GB"
+    },
+    {
+        "id": "0625",
+        "name": "Schalke 04",
+        "search": ["schalke 04"],
+        "country": "DE"
+    },
+    {
+        "id": "0626",
+        "name": "Atletico Mineiro",
+        "search": ["atletico mineiro"],
+        "country": "BR"
+    },
+    {
+        "id": "0627",
+        "name": "Shakhtar Donetsk",
+        "search": ["shakhtar donetsk", "fc shakhtar donetsk"]
+    },
+    {
+        "id": "0628",
+        "name": "Norwich City",
+        "search": ["norwich city"],
+        "country": "GB"
+    },
+    {
+        "id": "0629",
+        "name": "Almeria",
+        "search": ["almeria", "ud almería"],
+        "country": "ES"
+    },
+    {
+        "id": "0630",
+        "name": "Sassuolo",
+        "search": ["sassuolo", "us sassuolo calcio"],
+        "country": "IT"
+    },
+    {
+        "id": "0631",
+        "name": "Anderlecht",
+        "search": ["anderlecht", "rsc anderlecht"],
+        "country": "BE"
+    },
+    {
+        "id": "0632",
+        "name": "Fluminense",
+        "search": ["fluminense"],
+        "country": "BR"
+    },
+    {
+        "id": "0633",
+        "name": "Werder Bremen",
+        "search": ["werder bremen"],
+        "country": "DE"
+    },
+    {
+        "id": "0634",
+        "name": "Real Valladolid",
+        "search": ["real valladolid"],
+        "country": "ES"
+    },
+    {
+        "id": "0635",
+        "name": "Manchester City",
+        "search": ["manchester city"],
+        "country": "GB"
+    },
+    {
+        "id": "0636",
+        "name": "Bordeaux",
+        "search": ["bordeaux"],
+        "country": "FR"
+    },
+    {
+        "id": "0637",
+        "name": "Sandefjord",
+        "search": ["sandefjord"],
+        "country": "NO"
+    },
+    {
+        "id": "0638",
+        "name": "Hamarkamaratene",
+        "search": ["hamarkamaratene"],
+        "country": "NO"
+    },
+    {
+        "id": "0639",
+        "name": "Levadiakos",
+        "search": ["levadiakos"],
+        "country": "GR"
+    },
+    {
+        "id": "0640",
+        "name": "Kristiansund BK",
+        "search": ["kristiansund bk"],
+        "country": "NO"
+    },
+    {
+        "id": "0641",
+        "name": "FK Jerv",
+        "search": ["fk jerv"],
+        "country": "NO"
+    },
+    {
+        "id": "0642",
+        "name": "Richards Bay",
+        "search": ["richards bay"],
+        "country": "ZA"
+    },
+    {
+        "id": "0643",
+        "name": "St. Louis CITY SC",
+        "search": ["st. louis city sc"],
+        "country": "US"
+    },
+    {
+        "id": "0644",
+        "name": "Albirex Niigata",
+        "search": ["albirex niigata"],
+        "country": "JP"
+    },
+    {
+        "id": "0645",
+        "name": "Yokohama FC",
+        "search": ["yokohama fc"],
+        "country": "JP"
+    },
+    {
+        "id": "0646",
+        "name": "Instituto",
+        "search": ["instituto"],
+        "country": "AR"
+    },
+    {
+        "id": "0647",
+        "name": "Belgrano Cordoba",
+        "search": ["belgrano cordoba"],
+        "country": "AR"
+    },
+    {
+        "id": "0648",
+        "name": "Slovácko",
+        "search": ["slovácko"]
+    },
+    {
+        "id": "0649",
+        "name": "Viktoria Plzen",
+        "search": ["viktoria plzen"]
+    },
+    {
+        "id": "0650",
+        "name": "SC Dnipro-1",
+        "search": ["sc dnipro-1"]
+    },
+    {
+        "id": "0651",
+        "name": "Steaua Bucuresti",
+        "search": ["steaua bucuresti"]
+    },
+    {
+        "id": "0652",
+        "name": "Lech Poznan",
+        "search": ["lech poznan"]
+    },
+    {
+        "id": "0653",
+        "name": "Hapoel Be'er",
+        "search": ["hapoel be'er"]
+    },
+    {
+        "id": "0654",
+        "name": "AEK Larnaca",
+        "search": ["aek larnaca"]
+    },
+    {
+        "id": "0655",
+        "name": "Apollon Limassol",
+        "search": ["apollon limassol"]
+    },
+    {
+        "id": "0656",
+        "name": "Ballkani",
+        "search": ["ballkani"]
+    },
+    {
+        "id": "0657",
+        "name": "Rigas Futbola Skola",
+        "search": ["rigas futbola skola"]
+    },
+    {
+        "id": "0658",
+        "name": "Zalgiris Vilnius",
+        "search": ["zalgiris vilnius"]
+    },
+    {
+        "id": "0659",
+        "name": "FC Vaduz",
+        "search": ["fc vaduz"],
+        "country": "CH"
+    },
+    {
+        "id": "0660",
+        "name": "Pyunik Yerevan",
+        "search": ["pyunik yerevan"]
+    }
+]
