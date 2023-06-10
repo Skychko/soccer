@@ -2,7 +2,9 @@
 
 ## Description
 
-The search field, which includes leagues and teams, is utilized to combine current data with data from a third-party source. For instance, if you have a schedule of matches in the format [TEAM NAME 1] - [TEAM NAME 2], and you wish to display this data along with team logos.
+The field `"search"` (leagues, teams) is utilized to combine current data with data from a third-party source. For instance, if you have a schedule of matches in the format [TEAM NAME 1] - [TEAM NAME 2], and you wish to display this data along with team logos.
+
+Team and league logos are raw. It's supposed they will be precompiled for production usage (I.e. be automatically resized and combined to sprites).
 
 ## Structure:
 
