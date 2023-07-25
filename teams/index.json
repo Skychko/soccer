@@ -3894,5 +3894,20 @@
         "id": "0660",
         "name": "Pyunik Yerevan",
         "search": ["pyunik yerevan"]
+    },
+    {
+        "id": "0661",
+        "name": "FC Lausanne-Sport",
+        "search": ["fc lausanne-sport"]
+    },
+    {
+        "id": "0662",
+        "name": "FC Stade Lausanne-Ouchy",
+        "search": ["fc stade lausanne-ouchy"]
+    },
+    {
+        "id": "0663",
+        "name": "Yverdon Sport FC",
+        "search": ["yverdon sport fc"]
     }
 ]
