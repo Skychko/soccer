@@ -3898,16 +3898,19 @@
     {
         "id": "0661",
         "name": "FC Lausanne-Sport",
-        "search": ["fc lausanne-sport"]
+        "search": ["fc lausanne-sport"],
+        "country": "CH"
     },
     {
         "id": "0662",
         "name": "FC Stade Lausanne-Ouchy",
-        "search": ["fc stade lausanne-ouchy"]
+        "search": ["fc stade lausanne-ouchy"],
+        "country": "CH"
     },
     {
         "id": "0663",
         "name": "Yverdon Sport FC",
-        "search": ["yverdon sport fc"]
+        "search": ["yverdon sport fc"],
+        "country": "CH"
     }
 ]
