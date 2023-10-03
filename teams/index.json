@@ -569,7 +569,7 @@
     {
         "id": "0097",
         "name": "FC Zurich",
-        "search": ["fc zurich"],
+        "search": ["fc zurich", "fc zürich"],
         "country": "CH"
     },
     {
@@ -2074,7 +2074,7 @@
     {
         "id": "0352",
         "name": "Grasshoppers Zürich",
-        "search": ["grasshoppers zürich", "fc zürich", "grasshopper club zürich"],
+        "search": ["grasshoppers zürich", "grasshopper club zürich"],
         "country": "CH"
     },
     {
